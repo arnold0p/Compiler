@@ -1,0 +1,88 @@
+INFO  20:43:45,321 - Compiling source file: D:\faks\milos\4 god 1 sem\pp1\projekat\projekateclipse\MJCompiler\program.mj
+INFO  20:43:45,408 - #2 program
+INFO  20:43:45,408 - #44 P
+INFO  20:43:45,408 - #24 const
+INFO  20:43:45,409 - #44 int
+INFO  20:43:45,409 - #44 konst
+INFO  20:43:45,411 - #12 =
+INFO  20:43:45,411 - #43 3
+INFO  20:43:45,411 - #5 ;
+INFO  20:43:45,411 - #44 int
+INFO  20:43:45,412 - #44 x
+INFO  20:43:45,412 - #5 ;
+INFO  20:43:45,412 - #44 int
+INFO  20:43:45,412 - #44 y
+INFO  20:43:45,413 - #5 ;
+INFO  20:43:45,413 - #3 {
+INFO  20:43:45,413 - #44 int
+INFO  20:43:45,413 - #44 k
+INFO  20:43:45,414 - #6 (
+INFO  20:43:45,414 - #7 )
+INFO  20:43:45,414 - #44 int
+INFO  20:43:45,415 - #44 c
+INFO  20:43:45,415 - #5 ;
+INFO  20:43:45,416 - #3 {
+INFO  20:43:45,416 - #44 c
+INFO  20:43:45,417 - #12 =
+INFO  20:43:45,418 - #43 1
+INFO  20:43:45,418 - #5 ;
+INFO  20:43:45,420 - #10 return
+INFO  20:43:45,421 - #44 c
+INFO  20:43:45,421 - #11 +
+INFO  20:43:45,421 - #43 2
+INFO  20:43:45,422 - #5 ;
+INFO  20:43:45,422 - #4 }
+INFO  20:43:45,422 - #44 int
+INFO  20:43:45,423 - #44 main
+INFO  20:43:45,423 - #6 (
+INFO  20:43:45,423 - #7 )
+INFO  20:43:45,423 - #3 {
+INFO  20:43:45,424 - #44 y
+INFO  20:43:45,424 - #12 =
+INFO  20:43:45,424 - #43 2
+INFO  20:43:45,424 - #5 ;
+INFO  20:43:45,424 - #44 x
+INFO  20:43:45,424 - #12 =
+INFO  20:43:45,424 - #44 y
+INFO  20:43:45,424 - #11 +
+INFO  20:43:45,424 - #43 2
+INFO  20:43:45,424 - #5 ;
+INFO  20:43:45,424 - #44 y
+INFO  20:43:45,425 - #12 =
+INFO  20:43:45,425 - #6 (
+INFO  20:43:45,425 - #44 k
+INFO  20:43:45,425 - #6 (
+INFO  20:43:45,425 - #7 )
+INFO  20:43:45,426 - #11 +
+INFO  20:43:45,426 - #43 3
+INFO  20:43:45,426 - #7 )
+INFO  20:43:45,426 - #39 *
+INFO  20:43:45,427 - #43 2
+INFO  20:43:45,431 - #11 +
+INFO  20:43:45,431 - #44 konst
+INFO  20:43:45,431 - #5 ;
+INFO  20:43:45,432 - #9 print
+INFO  20:43:45,432 - #6 (
+INFO  20:43:45,432 - #44 y
+INFO  20:43:45,432 - #7 )
+INFO  20:43:45,433 - #5 ;
+INFO  20:43:45,433 - #10 return
+INFO  20:43:45,433 - #43 0
+INFO  20:43:45,433 - #5 ;
+INFO  20:43:45,433 - #4 }
+INFO  20:43:45,433 - #4 }
+INFO  20:43:45,434 - =================================================================================
+ERROR 20:43:45,449 - Greska na liniji 3: neekvivalentni tipovi
+INFO  20:43:45,449 - Pretraga na liniji 7 (c) , nadjeno 
+INFO  20:43:45,449 - Pretraga na liniji 8 (c) , nadjeno 
+INFO  20:43:45,449 - Pretraga na liniji 12 (y) , nadjeno 
+INFO  20:43:45,449 - Pretraga na liniji 13 (x) , nadjeno 
+INFO  20:43:45,449 - Pretraga na liniji 13 (y) , nadjeno 
+INFO  20:43:45,449 - Pretraga na liniji 14 (y) , nadjeno 
+INFO  20:43:45,450 - Pretraga na liniji 14 (k) , nadjeno 
+INFO  20:43:45,450 - Pretraga na liniji 14 Pronadjen poziv funkcije k
+ERROR 20:43:45,450 - Greska na liniji 14 ime konst nije deklarisano! 
+ERROR 20:43:45,450 - Greska na liniji 14 nekompatibilni tipovi u izrazu za sabiranje.
+ERROR 20:43:45,450 - Greska na liniji 14 nekompatibilni tipovi u dodeli vrednosti! 
+INFO  20:43:45,450 - Pretraga na liniji 15 (y) , nadjeno 
+ERROR 20:43:45,451 - Parsiranje NIJE uspesno zavrseno!

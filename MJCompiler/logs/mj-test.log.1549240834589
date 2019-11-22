@@ -1,0 +1,96 @@
+INFO  01:39:21,092 - Compiling source file: D:\faks\milos\4 god 1 sem\pp1\projekat\projekateclipse\MJCompiler\klasefje.mj
+INFO  01:39:21,202 - #2 program
+INFO  01:39:21,203 - #44 test301
+INFO  01:39:21,203 - #44 char
+INFO  01:39:21,204 - #44 niz
+INFO  01:39:21,205 - #37 [
+INFO  01:39:21,205 - #38 ]
+INFO  01:39:21,205 - #5 ;
+INFO  01:39:21,205 - #24 const
+INFO  01:39:21,205 - #44 int
+INFO  01:39:21,205 - #44 size
+INFO  01:39:21,205 - #12 =
+INFO  01:39:21,206 - #43 26
+INFO  01:39:21,206 - #5 ;
+INFO  01:39:21,206 - #44 int
+INFO  01:39:21,206 - #44 i
+INFO  01:39:21,206 - #8 ,
+INFO  01:39:21,206 - #44 j
+INFO  01:39:21,206 - #5 ;
+INFO  01:39:21,206 - #44 int
+INFO  01:39:21,207 - #44 a
+INFO  01:39:21,207 - #37 [
+INFO  01:39:21,207 - #38 ]
+INFO  01:39:21,207 - #5 ;
+INFO  01:39:21,207 - #22 class
+INFO  01:39:21,207 - #44 Klasa
+INFO  01:39:21,207 - #3 {
+INFO  01:39:21,209 - #44 int
+INFO  01:39:21,209 - #44 k
+INFO  01:39:21,209 - #5 ;
+INFO  01:39:21,210 - #44 int
+INFO  01:39:21,210 - #44 niz
+INFO  01:39:21,210 - #37 [
+INFO  01:39:21,210 - #38 ]
+INFO  01:39:21,210 - #5 ;
+INFO  01:39:21,210 - #44 int
+INFO  01:39:21,210 - #44 fja
+INFO  01:39:21,210 - #6 (
+ERROR 01:39:21,210 - 
+Sintaksna greska na liniji 14
+INFO  01:39:21,211 - #44 int
+INFO  01:39:21,211 - #44 x
+INFO  01:39:21,211 - #7 )
+INFO  01:39:21,211 - #3 {
+INFO  01:39:21,212 - #44 k
+INFO  01:39:21,212 - #12 =
+INFO  01:39:21,212 - #44 x
+INFO  01:39:21,212 - #5 ;
+INFO  01:39:21,212 - #44 this
+INFO  01:39:21,212 - #48 .
+INFO  01:39:21,212 - #44 k
+INFO  01:39:21,213 - #12 =
+INFO  01:39:21,213 - #44 x
+INFO  01:39:21,213 - #11 +
+INFO  01:39:21,213 - #44 k
+INFO  01:39:21,213 - #5 ;
+INFO  01:39:21,213 - #10 return
+INFO  01:39:21,213 - #44 k
+INFO  01:39:21,213 - #5 ;
+INFO  01:39:21,213 - #4 }
+INFO  01:39:21,213 - #4 }
+INFO  01:39:21,214 - #44 Klasa
+INFO  01:39:21,214 - #44 k
+INFO  01:39:21,214 - #5 ;
+ERROR 01:39:21,214 - Uspesan oporavak od greske pri deklaraciji polja klase, line : 13
+INFO  01:39:21,216 - #3 {
+INFO  01:39:21,216 - #13 void
+INFO  01:39:21,216 - #44 main
+INFO  01:39:21,216 - #6 (
+INFO  01:39:21,217 - #7 )
+INFO  01:39:21,217 - #3 {
+INFO  01:39:21,218 - #44 k
+INFO  01:39:21,218 - #12 =
+INFO  01:39:21,220 - #19 new
+INFO  01:39:21,220 - #44 Klasa
+INFO  01:39:21,220 - #5 ;
+INFO  01:39:21,222 - #44 i
+INFO  01:39:21,222 - #12 =
+INFO  01:39:21,222 - #44 k
+INFO  01:39:21,222 - #48 .
+INFO  01:39:21,222 - #44 fja
+INFO  01:39:21,222 - #6 (
+INFO  01:39:21,223 - #43 5
+INFO  01:39:21,223 - #7 )
+INFO  01:39:21,225 - #5 ;
+INFO  01:39:21,225 - #4 }
+INFO  01:39:21,225 - #4 }
+INFO  01:39:21,227 - =================================================================================
+INFO  01:39:21,244 - Pretraga na liniji 25 (k) , nadjeno 
+INFO  01:39:21,244 - Pretraga na liniji 27 (i) , nadjeno 
+INFO  01:39:21,245 - Pretraga na liniji 27 (k) , nadjeno 
+ERROR 01:39:21,245 - Greska na liniji 27 : ime fja nije deklarisano u klasi! 
+ERROR 01:39:21,245 - Greska na liniji 27 veci broj parametara od potrebnog za poziv funkcije noObj
+ERROR 01:39:21,245 - Greska na liniji 27  ime noObj nije funkcija!
+ERROR 01:39:21,245 - Greska na liniji 27 nekompatibilni tipovi u dodeli vrednosti!
+ERROR 01:39:21,245 - Parsiranje NIJE uspesno zavrseno!

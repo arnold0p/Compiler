@@ -1,0 +1,106 @@
+INFO  05:14:09,876 - Compiling source file: D:\faks\milos\4 god 1 sem\pp1\projekat\projekateclipse\MJCompiler\testif.mj
+INFO  05:14:09,969 - #2 program
+INFO  05:14:09,969 - #44 P
+INFO  05:14:09,969 - #24 const
+INFO  05:14:09,971 - #44 int
+INFO  05:14:09,971 - #44 konst
+INFO  05:14:09,973 - #12 =
+INFO  05:14:09,973 - #43 20
+INFO  05:14:09,973 - #5 ;
+INFO  05:14:09,973 - #44 int
+INFO  05:14:09,974 - #44 x
+INFO  05:14:09,974 - #5 ;
+INFO  05:14:09,974 - #44 int
+INFO  05:14:09,975 - #44 y
+INFO  05:14:09,975 - #5 ;
+INFO  05:14:09,975 - #24 const
+INFO  05:14:09,975 - #44 char
+INFO  05:14:09,975 - #44 l
+INFO  05:14:09,975 - #12 =
+INFO  05:14:09,975 - #42 3
+INFO  05:14:09,975 - #5 ;
+INFO  05:14:09,975 - #44 bool
+INFO  05:14:09,977 - #44 is
+INFO  05:14:09,977 - #5 ;
+INFO  05:14:09,977 - #21 enum
+INFO  05:14:09,977 - #44 Num
+INFO  05:14:09,978 - #3 {
+INFO  05:14:09,978 - #44 ZERO
+INFO  05:14:09,979 - #8 ,
+INFO  05:14:09,979 - #44 ONE
+INFO  05:14:09,979 - #8 ,
+INFO  05:14:09,979 - #44 TEN
+INFO  05:14:09,979 - #12 =
+INFO  05:14:09,979 - #43 10
+INFO  05:14:09,979 - #4 }
+INFO  05:14:09,980 - #3 {
+INFO  05:14:09,981 - #13 void
+INFO  05:14:09,982 - #44 main
+INFO  05:14:09,982 - #6 (
+INFO  05:14:09,982 - #7 )
+INFO  05:14:09,983 - #44 int
+INFO  05:14:09,984 - #44 ae
+INFO  05:14:09,984 - #5 ;
+INFO  05:14:09,984 - #3 {
+INFO  05:14:09,984 - #44 ae
+INFO  05:14:09,985 - #12 =
+INFO  05:14:09,987 - #43 3
+INFO  05:14:09,987 - #5 ;
+INFO  05:14:09,989 - #44 x
+INFO  05:14:09,990 - #12 =
+INFO  05:14:09,990 - #43 4
+INFO  05:14:09,990 - #5 ;
+INFO  05:14:09,990 - #44 y
+INFO  05:14:09,990 - #12 =
+INFO  05:14:09,990 - #43 5
+INFO  05:14:09,990 - #5 ;
+INFO  05:14:09,990 - #44 is
+INFO  05:14:09,991 - #12 =
+INFO  05:14:09,991 - #41 true
+INFO  05:14:09,991 - #5 ;
+INFO  05:14:09,991 - #9 print
+INFO  05:14:09,991 - #6 (
+INFO  05:14:09,991 - #44 is
+INFO  05:14:09,991 - #7 )
+INFO  05:14:09,992 - #5 ;
+INFO  05:14:09,992 - #45 if
+INFO  05:14:09,993 - #6 (
+INFO  05:14:09,993 - #44 x
+INFO  05:14:09,993 - #31 <
+INFO  05:14:09,993 - #44 y
+INFO  05:14:09,994 - #33 &&
+INFO  05:14:09,996 - #44 is
+INFO  05:14:09,996 - #7 )
+INFO  05:14:09,999 - #3 {
+INFO  05:14:09,999 - #9 print
+INFO  05:14:09,999 - #6 (
+INFO  05:14:09,999 - #43 11
+INFO  05:14:09,999 - #7 )
+INFO  05:14:09,999 - #5 ;
+INFO  05:14:09,999 - #4 }
+INFO  05:14:09,999 - #46 else
+INFO  05:14:10,000 - #3 {
+INFO  05:14:10,000 - #9 print
+INFO  05:14:10,000 - #6 (
+INFO  05:14:10,001 - #43 22
+INFO  05:14:10,001 - #7 )
+INFO  05:14:10,001 - #5 ;
+INFO  05:14:10,001 - #4 }
+INFO  05:14:10,001 - #9 print
+INFO  05:14:10,002 - #6 (
+INFO  05:14:10,002 - #42 k
+INFO  05:14:10,002 - #7 )
+INFO  05:14:10,002 - #5 ;
+INFO  05:14:10,003 - #4 }
+INFO  05:14:10,003 - #4 }
+INFO  05:14:10,004 - =================================================================================
+INFO  05:14:10,028 - Pretraga na liniji 23 (ae) , nadjeno 
+INFO  05:14:10,028 - Pretraga na liniji 25 (x) , nadjeno 
+INFO  05:14:10,029 - Pretraga na liniji 27 (y) , nadjeno 
+INFO  05:14:10,029 - Pretraga na liniji 29 (is) , nadjeno 
+INFO  05:14:10,029 - Pretraga na liniji 31 (is) , nadjeno 
+INFO  05:14:10,030 - Pretraga na liniji 33 (x) , nadjeno 
+INFO  05:14:10,030 - Pretraga na liniji 33 (y) , nadjeno 
+INFO  05:14:10,030 - Pretraga na liniji 33 (is) , nadjeno 
+ERROR 05:14:10,030 - Greska na liniji 33 uslov nije bool tip e
+ERROR 05:14:10,031 - Parsiranje NIJE uspesno zavrseno!

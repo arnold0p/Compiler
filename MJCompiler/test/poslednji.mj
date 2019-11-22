@@ -1,0 +1,192 @@
+// Test301
+
+program test301
+	char niz[];
+	const int size = 26;
+	int j;
+	
+	int i;
+	int a[];
+	enum Num {ZERO = 3,ONE}
+	interface Printer
+	{
+		void pisi();
+		
+	}
+	interface Postavljac
+	{
+		int postavi();
+		
+	}
+	
+	class Klasa{
+		int k;
+		int i;
+		int niz[];
+		{
+		void postavix(int x){
+			niz = new int[x+1];
+			i=x;
+			niz[i]=3;
+			niz[i]++;
+			print(niz[i]);
+			niz[i]--;
+			print(niz[i]);
+			i=x;
+		}
+		}
+	}
+	
+	
+	class Klasa1 extends Klasa implements Postavljac,Printer{
+		char k;
+		{
+		int postavi(){
+			this.k = 'a';
+			return 10;
+		}
+		void pisi(){
+		print(k);
+		print('X');
+		}
+		}
+	}
+	
+	
+	class Klasa2 extends Klasa1 implements Postavljac,Printer{
+		Klasa niz[];
+		{
+		int postavi(){
+			niz = new Klasa1[5];
+			
+			niz[2] = new Klasa1;
+			
+			niz[2].k = 3;
+			print(niz[2].k);
+			
+			this.k = 'b';
+			return 20;
+		}
+		void pisi(){
+			print(k);
+			print('Y');
+			print(eol);
+			for (i=0;i<5;i++){
+				for (j=0;j<6;j++){
+					if (j%2 ==0)
+						niz[i].niz[j]--;
+					else
+						this.niz[i].niz[j]++;
+						
+					print(niz[i].niz[j]);
+				}
+					
+				print(eol);
+			}
+				
+		}
+		}
+	}
+	Klasa1 k;
+	
+	Klasa1 opa[];
+	
+	Klasa2 k2;
+	
+{
+	void kazimi(){
+		print(eol);
+		print('m');
+		print(eol);
+	}
+	
+ 	void uradi(Postavljac k1, Postavljac k2){
+ 		if (k2!=null && k1!=null){
+ 			print(k1.postavi());
+ 			print(k2.postavi());
+ 			
+ 		}
+ 	}
+ 	
+ 	Printer alociraj()
+ 	Klasa1 k;
+ 	{
+ 		k = new Klasa1;
+ 		k.postavi();
+ 		kazimi();
+ 		return k;
+ 	}
+	
+	void main()	
+	int niz[];
+	Printer p,p1;
+	int e;
+	Num n1,n2;
+	Klasa k;
+	Klasa2 k2;
+	{
+	
+		n1 = Num.ONE;
+		
+		n2 = n1;
+		print(n2);
+		p = alociraj();
+		
+		if (p!=null)
+			p.pisi();
+		else
+			print('j');
+		
+		p1=p;
+		
+		p1.pisi();
+		
+		print(eol);
+		
+		k = new Klasa;
+		
+		i=0;
+		k.postavix(10);
+		print(k.i);
+		
+		k.niz[k.i]=7;
+		
+		print(eol);
+		print(k.niz[k.i]);
+		k.niz[k.i]++;
+		print(k.niz[k.i]);
+		k.niz[k.i]--;
+		print(k.niz[k.i+e-e+1-1/1+k.niz[k.i]-k.niz[k.i]]);
+		
+		k2 = new Klasa2;
+		
+		k2.postavi();
+		
+		print(eol);
+		print(k2.niz[2].k);
+		
+		print(eol);
+		
+		k2.niz = new Klasa1[5];
+		for (i=0;i<5;i++){
+			k2.niz[i] = new Klasa1;
+			
+			k2.niz[i].postavix(5);
+			
+			for (j=0;j<5;j++)
+				k2.niz[i].niz[j] = i;
+			
+		}
+		
+		print(eol);
+		for (i=0;i<5;i++){
+	
+			for (j=0;j<6;j++)
+				print(k2.niz[i].niz[j]);
+			
+			print(eol);
+		}
+		
+		k2.pisi();
+	}
+}

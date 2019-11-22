@@ -1,0 +1,101 @@
+// Test301
+
+program test301
+	char niz[];
+	const int size = 26;
+	int i,j;
+	
+	int a[];
+	
+	interface Printer
+	{
+		void pisi();
+		
+	}
+	interface Postavljac
+	{
+		int postavi();
+		
+	}
+	
+	class Klasa{
+		int k;
+		int i;
+		int niz[];
+		{
+		void postavix(int x){
+			i=x;
+		}
+		}
+	}
+	
+	class Klasa1 extends Klasa implements Postavljac,Printer{
+		char k;
+		{
+		int postavi(){
+			this.k = 'a';
+			return 10;
+		}
+		void pisi(){
+		print(k);
+		print('X');
+		}
+		}
+	}
+	
+	class Klasa2 extends Klasa1 implements Postavljac,Printer{
+		Klasa1 niz[];
+		{
+		int postavi(){
+			this.k = 'b';
+			return 20;
+		}
+		void pisi(){
+		print(k);
+		print('Y');
+		}
+		}
+	}
+	Klasa1 k;
+	
+	Klasa1 opa[];
+	
+	Klasa2 k2;
+	
+{
+ 	void uradi(Postavljac k1, Postavljac k2){
+ 		if (k2!=null && k1!=null){
+ 			print(k1.postavi());
+ 			print(k2.postavi());
+ 			
+ 		}
+ 	}
+	
+	void main()	
+	int niz[];
+	int e;
+	{
+	
+		k = new Klasa1;
+		k2 = new Klasa2;
+		
+		uradi(k,k2);
+		
+		print(k.k);
+		print(k2.k);
+		k.pisi();
+		k2.pisi();
+		
+		
+		
+		print(eol);
+		
+		niz = new int[6];
+		
+		e=2;
+		e  = e + len(niz);
+		print(e);
+		
+		
+	}
+}

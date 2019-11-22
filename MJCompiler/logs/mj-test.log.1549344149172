@@ -1,0 +1,884 @@
+INFO  06:21:41,824 - Compiling source file: D:\faks\milos\4 god 1 sem\pp1\projekat\projekateclipse\MJCompiler\sort.mj
+INFO  06:21:41,894 - #2 program
+INFO  06:21:41,895 - #44 MJProgram
+INFO  06:21:41,895 - #23 interface
+INFO  06:21:41,896 - #44 IConstructable
+INFO  06:21:41,896 - #3 {
+INFO  06:21:41,896 - #13 void
+INFO  06:21:41,897 - #44 construct
+INFO  06:21:41,897 - #6 (
+INFO  06:21:41,897 - #7 )
+INFO  06:21:41,898 - #5 ;
+INFO  06:21:41,898 - #13 void
+INFO  06:21:41,898 - #44 populate
+INFO  06:21:41,898 - #6 (
+INFO  06:21:41,898 - #44 int
+INFO  06:21:41,898 - #44 v
+INFO  06:21:41,899 - #7 )
+INFO  06:21:41,899 - #5 ;
+INFO  06:21:41,899 - #4 }
+INFO  06:21:41,899 - #22 class
+INFO  06:21:41,900 - #44 A
+INFO  06:21:41,901 - #20 implements
+INFO  06:21:41,902 - #44 IConstructable
+INFO  06:21:41,902 - #3 {
+INFO  06:21:41,902 - #44 int
+INFO  06:21:41,903 - #44 arr
+INFO  06:21:41,903 - #37 [
+INFO  06:21:41,903 - #38 ]
+INFO  06:21:41,903 - #5 ;
+INFO  06:21:41,903 - #3 {
+INFO  06:21:41,904 - #13 void
+INFO  06:21:41,904 - #44 construct
+INFO  06:21:41,904 - #6 (
+INFO  06:21:41,905 - #7 )
+INFO  06:21:41,905 - #3 {
+INFO  06:21:41,906 - #44 arr
+INFO  06:21:41,907 - #12 =
+INFO  06:21:41,908 - #19 new
+INFO  06:21:41,908 - #44 int
+INFO  06:21:41,909 - #37 [
+INFO  06:21:41,909 - #43 5
+INFO  06:21:41,909 - #38 ]
+INFO  06:21:41,910 - #5 ;
+INFO  06:21:41,911 - #4 }
+INFO  06:21:41,911 - #13 void
+INFO  06:21:41,912 - #44 populate
+INFO  06:21:41,912 - #6 (
+INFO  06:21:41,913 - #44 int
+INFO  06:21:41,913 - #44 v
+INFO  06:21:41,913 - #7 )
+INFO  06:21:41,913 - #3 {
+INFO  06:21:41,913 - #4 }
+INFO  06:21:41,913 - #44 bool
+INFO  06:21:41,913 - #44 equal
+INFO  06:21:41,913 - #6 (
+INFO  06:21:41,913 - #44 A
+INFO  06:21:41,913 - #44 a
+INFO  06:21:41,913 - #7 )
+INFO  06:21:41,914 - #3 {
+INFO  06:21:41,914 - #46 if
+INFO  06:21:41,914 - #6 (
+INFO  06:21:41,914 - #44 this
+INFO  06:21:41,914 - #27 ==
+INFO  06:21:41,914 - #44 a
+INFO  06:21:41,915 - #7 )
+INFO  06:21:41,917 - #10 return
+INFO  06:21:41,917 - #41 true
+INFO  06:21:41,918 - #5 ;
+INFO  06:21:41,918 - #47 else
+INFO  06:21:41,919 - #10 return
+INFO  06:21:41,919 - #41 false
+INFO  06:21:41,919 - #5 ;
+INFO  06:21:41,919 - #4 }
+INFO  06:21:41,920 - #4 }
+INFO  06:21:41,920 - #4 }
+INFO  06:21:41,920 - #22 class
+INFO  06:21:41,921 - #44 B
+INFO  06:21:41,921 - #20 implements
+INFO  06:21:41,921 - #44 IConstructable
+INFO  06:21:41,921 - #3 {
+INFO  06:21:41,921 - #44 A
+INFO  06:21:41,921 - #44 a
+INFO  06:21:41,922 - #5 ;
+INFO  06:21:41,922 - #3 {
+INFO  06:21:41,922 - #13 void
+INFO  06:21:41,922 - #44 construct
+INFO  06:21:41,922 - #6 (
+INFO  06:21:41,922 - #7 )
+INFO  06:21:41,922 - #3 {
+INFO  06:21:41,922 - #44 a
+INFO  06:21:41,922 - #12 =
+INFO  06:21:41,923 - #19 new
+INFO  06:21:41,923 - #44 A
+INFO  06:21:41,923 - #5 ;
+INFO  06:21:41,924 - #44 a
+INFO  06:21:41,924 - #48 .
+INFO  06:21:41,924 - #44 construct
+INFO  06:21:41,924 - #6 (
+INFO  06:21:41,925 - #7 )
+INFO  06:21:41,926 - #5 ;
+INFO  06:21:41,926 - #4 }
+INFO  06:21:41,926 - #13 void
+INFO  06:21:41,926 - #44 populate
+INFO  06:21:41,926 - #6 (
+INFO  06:21:41,926 - #44 int
+INFO  06:21:41,926 - #44 v
+INFO  06:21:41,927 - #7 )
+INFO  06:21:41,927 - #44 int
+INFO  06:21:41,927 - #44 i
+INFO  06:21:41,927 - #5 ;
+INFO  06:21:41,927 - #3 {
+INFO  06:21:41,927 - #16 for
+INFO  06:21:41,928 - #6 (
+INFO  06:21:41,928 - #44 i
+INFO  06:21:41,928 - #12 =
+INFO  06:21:41,928 - #43 0
+INFO  06:21:41,928 - #5 ;
+INFO  06:21:41,928 - #44 i
+INFO  06:21:41,928 - #31 <
+INFO  06:21:41,928 - #44 len
+INFO  06:21:41,929 - #6 (
+INFO  06:21:41,929 - #44 a
+INFO  06:21:41,929 - #48 .
+INFO  06:21:41,929 - #44 arr
+INFO  06:21:41,933 - #7 )
+INFO  06:21:41,934 - #5 ;
+INFO  06:21:41,934 - #44 i
+INFO  06:21:41,934 - #35 ++
+INFO  06:21:41,934 - #7 )
+INFO  06:21:41,934 - #3 {
+INFO  06:21:41,935 - #44 a
+INFO  06:21:41,935 - #48 .
+INFO  06:21:41,935 - #44 arr
+INFO  06:21:41,935 - #37 [
+INFO  06:21:41,936 - #44 i
+INFO  06:21:41,936 - #38 ]
+INFO  06:21:41,936 - #12 =
+INFO  06:21:41,936 - #44 v
+INFO  06:21:41,936 - #39 *
+INFO  06:21:41,936 - #6 (
+INFO  06:21:41,937 - #44 v
+INFO  06:21:41,937 - #25 -
+INFO  06:21:41,937 - #44 i
+INFO  06:21:41,939 - #7 )
+INFO  06:21:41,939 - #5 ;
+INFO  06:21:41,939 - #4 }
+INFO  06:21:41,939 - #4 }
+INFO  06:21:41,940 - #44 int
+INFO  06:21:41,940 - #44 sum
+INFO  06:21:41,940 - #6 (
+INFO  06:21:41,941 - #7 )
+INFO  06:21:41,941 - #44 int
+INFO  06:21:41,941 - #44 r
+INFO  06:21:41,941 - #8 ,
+INFO  06:21:41,941 - #44 i
+INFO  06:21:41,941 - #5 ;
+INFO  06:21:41,941 - #3 {
+INFO  06:21:41,941 - #44 r
+INFO  06:21:41,941 - #12 =
+INFO  06:21:41,941 - #43 0
+INFO  06:21:41,941 - #5 ;
+INFO  06:21:41,941 - #16 for
+INFO  06:21:41,941 - #6 (
+INFO  06:21:41,941 - #44 i
+INFO  06:21:41,941 - #12 =
+INFO  06:21:41,941 - #43 0
+INFO  06:21:41,941 - #5 ;
+INFO  06:21:41,942 - #44 i
+INFO  06:21:41,942 - #31 <
+INFO  06:21:41,942 - #44 len
+INFO  06:21:41,942 - #6 (
+INFO  06:21:41,942 - #44 a
+INFO  06:21:41,942 - #48 .
+INFO  06:21:41,942 - #44 arr
+INFO  06:21:41,942 - #7 )
+INFO  06:21:41,942 - #5 ;
+INFO  06:21:41,942 - #44 i
+INFO  06:21:41,942 - #35 ++
+INFO  06:21:41,942 - #7 )
+INFO  06:21:41,942 - #44 r
+INFO  06:21:41,942 - #12 =
+INFO  06:21:41,942 - #44 r
+INFO  06:21:41,943 - #11 +
+INFO  06:21:41,943 - #44 a
+INFO  06:21:41,943 - #48 .
+INFO  06:21:41,943 - #44 arr
+INFO  06:21:41,943 - #37 [
+INFO  06:21:41,943 - #44 i
+INFO  06:21:41,943 - #38 ]
+INFO  06:21:41,943 - #5 ;
+INFO  06:21:41,944 - #10 return
+INFO  06:21:41,944 - #44 r
+INFO  06:21:41,944 - #5 ;
+INFO  06:21:41,944 - #4 }
+INFO  06:21:41,944 - #4 }
+INFO  06:21:41,944 - #4 }
+INFO  06:21:41,944 - #22 class
+INFO  06:21:41,944 - #44 C
+INFO  06:21:41,944 - #20 implements
+INFO  06:21:41,944 - #44 IConstructable
+INFO  06:21:41,944 - #3 {
+INFO  06:21:41,944 - #44 B
+INFO  06:21:41,944 - #44 arr
+INFO  06:21:41,944 - #37 [
+INFO  06:21:41,944 - #38 ]
+INFO  06:21:41,944 - #5 ;
+INFO  06:21:41,944 - #3 {
+INFO  06:21:41,944 - #13 void
+INFO  06:21:41,944 - #44 construct
+INFO  06:21:41,944 - #6 (
+INFO  06:21:41,944 - #7 )
+INFO  06:21:41,945 - #3 {
+INFO  06:21:41,945 - #44 arr
+INFO  06:21:41,945 - #12 =
+INFO  06:21:41,945 - #19 new
+INFO  06:21:41,945 - #44 B
+INFO  06:21:41,945 - #37 [
+INFO  06:21:41,945 - #43 5
+INFO  06:21:41,945 - #38 ]
+INFO  06:21:41,945 - #5 ;
+INFO  06:21:41,945 - #4 }
+INFO  06:21:41,945 - #13 void
+INFO  06:21:41,945 - #44 populate
+INFO  06:21:41,945 - #6 (
+INFO  06:21:41,945 - #44 int
+INFO  06:21:41,945 - #44 v
+INFO  06:21:41,945 - #7 )
+INFO  06:21:41,945 - #44 int
+INFO  06:21:41,945 - #44 i
+INFO  06:21:41,945 - #5 ;
+INFO  06:21:41,945 - #3 {
+INFO  06:21:41,945 - #16 for
+INFO  06:21:41,945 - #6 (
+INFO  06:21:41,945 - #44 i
+INFO  06:21:41,945 - #12 =
+INFO  06:21:41,945 - #43 0
+INFO  06:21:41,945 - #5 ;
+INFO  06:21:41,945 - #44 i
+INFO  06:21:41,945 - #31 <
+INFO  06:21:41,945 - #44 len
+INFO  06:21:41,945 - #6 (
+INFO  06:21:41,945 - #44 arr
+INFO  06:21:41,945 - #7 )
+INFO  06:21:41,946 - #5 ;
+INFO  06:21:41,946 - #44 i
+INFO  06:21:41,946 - #35 ++
+INFO  06:21:41,946 - #7 )
+INFO  06:21:41,946 - #3 {
+INFO  06:21:41,946 - #44 arr
+INFO  06:21:41,946 - #37 [
+INFO  06:21:41,946 - #44 i
+INFO  06:21:41,946 - #38 ]
+INFO  06:21:41,946 - #12 =
+INFO  06:21:41,946 - #19 new
+INFO  06:21:41,946 - #44 B
+INFO  06:21:41,946 - #5 ;
+INFO  06:21:41,946 - #44 arr
+INFO  06:21:41,946 - #37 [
+INFO  06:21:41,947 - #44 i
+INFO  06:21:41,947 - #38 ]
+INFO  06:21:41,947 - #48 .
+INFO  06:21:41,947 - #44 construct
+INFO  06:21:41,947 - #6 (
+INFO  06:21:41,947 - #7 )
+INFO  06:21:41,947 - #5 ;
+INFO  06:21:41,947 - #44 arr
+INFO  06:21:41,947 - #37 [
+INFO  06:21:41,947 - #44 i
+INFO  06:21:41,947 - #38 ]
+INFO  06:21:41,947 - #48 .
+INFO  06:21:41,947 - #44 populate
+INFO  06:21:41,947 - #6 (
+INFO  06:21:41,947 - #44 v
+INFO  06:21:41,947 - #11 +
+INFO  06:21:41,947 - #44 i
+INFO  06:21:41,947 - #7 )
+INFO  06:21:41,947 - #5 ;
+INFO  06:21:41,947 - #4 }
+INFO  06:21:41,947 - #4 }
+INFO  06:21:41,948 - #13 void
+INFO  06:21:41,948 - #44 dump
+INFO  06:21:41,948 - #6 (
+INFO  06:21:41,948 - #7 )
+INFO  06:21:41,948 - #44 int
+INFO  06:21:41,948 - #44 i
+INFO  06:21:41,948 - #8 ,
+INFO  06:21:41,948 - #44 j
+INFO  06:21:41,948 - #5 ;
+INFO  06:21:41,948 - #3 {
+INFO  06:21:41,948 - #16 for
+INFO  06:21:41,948 - #6 (
+INFO  06:21:41,948 - #44 i
+INFO  06:21:41,948 - #12 =
+INFO  06:21:41,948 - #43 0
+INFO  06:21:41,948 - #5 ;
+INFO  06:21:41,948 - #44 i
+INFO  06:21:41,948 - #31 <
+INFO  06:21:41,948 - #44 len
+INFO  06:21:41,948 - #6 (
+INFO  06:21:41,948 - #44 arr
+INFO  06:21:41,948 - #7 )
+INFO  06:21:41,949 - #5 ;
+INFO  06:21:41,949 - #44 i
+INFO  06:21:41,949 - #35 ++
+INFO  06:21:41,949 - #7 )
+INFO  06:21:41,949 - #3 {
+INFO  06:21:41,949 - #16 for
+INFO  06:21:41,949 - #6 (
+INFO  06:21:41,949 - #44 j
+INFO  06:21:41,949 - #12 =
+INFO  06:21:41,949 - #43 0
+INFO  06:21:41,949 - #5 ;
+INFO  06:21:41,949 - #44 j
+INFO  06:21:41,949 - #31 <
+INFO  06:21:41,949 - #44 len
+INFO  06:21:41,949 - #6 (
+INFO  06:21:41,949 - #44 arr
+INFO  06:21:41,949 - #37 [
+INFO  06:21:41,949 - #44 i
+INFO  06:21:41,949 - #38 ]
+INFO  06:21:41,950 - #48 .
+INFO  06:21:41,950 - #44 a
+INFO  06:21:41,950 - #48 .
+INFO  06:21:41,950 - #44 arr
+INFO  06:21:41,950 - #7 )
+INFO  06:21:41,950 - #5 ;
+INFO  06:21:41,950 - #44 j
+INFO  06:21:41,950 - #35 ++
+INFO  06:21:41,950 - #7 )
+INFO  06:21:41,950 - #3 {
+INFO  06:21:41,950 - #9 print
+INFO  06:21:41,950 - #6 (
+INFO  06:21:41,950 - #44 arr
+INFO  06:21:41,950 - #37 [
+INFO  06:21:41,950 - #44 i
+INFO  06:21:41,950 - #38 ]
+INFO  06:21:41,950 - #48 .
+INFO  06:21:41,950 - #44 a
+INFO  06:21:41,950 - #48 .
+INFO  06:21:41,950 - #44 arr
+INFO  06:21:41,951 - #37 [
+INFO  06:21:41,951 - #44 j
+INFO  06:21:41,951 - #38 ]
+INFO  06:21:41,951 - #7 )
+INFO  06:21:41,951 - #5 ;
+INFO  06:21:41,951 - #9 print
+INFO  06:21:41,952 - #6 (
+INFO  06:21:41,952 - #42  
+INFO  06:21:41,952 - #7 )
+INFO  06:21:41,952 - #5 ;
+INFO  06:21:41,952 - #4 }
+INFO  06:21:41,952 - #9 print
+INFO  06:21:41,952 - #6 (
+INFO  06:21:41,952 - #44 eol
+INFO  06:21:41,952 - #7 )
+INFO  06:21:41,952 - #5 ;
+INFO  06:21:41,952 - #4 }
+INFO  06:21:41,952 - #4 }
+INFO  06:21:41,952 - #13 void
+INFO  06:21:41,952 - #44 swap
+INFO  06:21:41,953 - #6 (
+INFO  06:21:41,953 - #44 int
+INFO  06:21:41,953 - #44 i
+INFO  06:21:41,953 - #8 ,
+INFO  06:21:41,953 - #44 int
+INFO  06:21:41,953 - #44 j
+INFO  06:21:41,953 - #7 )
+INFO  06:21:41,953 - #44 B
+INFO  06:21:41,953 - #44 temp
+INFO  06:21:41,953 - #5 ;
+INFO  06:21:41,953 - #3 {
+INFO  06:21:41,953 - #44 temp
+INFO  06:21:41,953 - #12 =
+INFO  06:21:41,953 - #44 arr
+INFO  06:21:41,953 - #37 [
+INFO  06:21:41,953 - #44 i
+INFO  06:21:41,953 - #38 ]
+INFO  06:21:41,953 - #5 ;
+INFO  06:21:41,953 - #44 arr
+INFO  06:21:41,953 - #37 [
+INFO  06:21:41,953 - #44 i
+INFO  06:21:41,953 - #38 ]
+INFO  06:21:41,953 - #12 =
+INFO  06:21:41,953 - #44 arr
+INFO  06:21:41,953 - #37 [
+INFO  06:21:41,953 - #44 j
+INFO  06:21:41,953 - #38 ]
+INFO  06:21:41,953 - #5 ;
+INFO  06:21:41,953 - #44 arr
+INFO  06:21:41,953 - #37 [
+INFO  06:21:41,953 - #44 j
+INFO  06:21:41,953 - #38 ]
+INFO  06:21:41,953 - #12 =
+INFO  06:21:41,953 - #44 temp
+INFO  06:21:41,953 - #5 ;
+INFO  06:21:41,953 - #4 }
+INFO  06:21:41,953 - #13 void
+INFO  06:21:41,953 - #44 sort
+INFO  06:21:41,953 - #6 (
+INFO  06:21:41,953 - #7 )
+INFO  06:21:41,954 - #44 int
+INFO  06:21:41,954 - #44 i
+INFO  06:21:41,954 - #8 ,
+INFO  06:21:41,954 - #44 j
+INFO  06:21:41,954 - #5 ;
+INFO  06:21:41,954 - #3 {
+INFO  06:21:41,954 - #16 for
+INFO  06:21:41,954 - #6 (
+INFO  06:21:41,954 - #44 i
+INFO  06:21:41,954 - #12 =
+INFO  06:21:41,954 - #43 0
+INFO  06:21:41,954 - #5 ;
+INFO  06:21:41,954 - #44 i
+INFO  06:21:41,954 - #31 <
+INFO  06:21:41,954 - #44 len
+INFO  06:21:41,954 - #6 (
+INFO  06:21:41,954 - #44 arr
+INFO  06:21:41,954 - #7 )
+INFO  06:21:41,954 - #25 -
+INFO  06:21:41,954 - #43 1
+INFO  06:21:41,954 - #5 ;
+INFO  06:21:41,955 - #44 i
+INFO  06:21:41,955 - #35 ++
+INFO  06:21:41,955 - #7 )
+INFO  06:21:41,955 - #3 {
+INFO  06:21:41,955 - #16 for
+INFO  06:21:41,955 - #6 (
+INFO  06:21:41,955 - #44 j
+INFO  06:21:41,955 - #12 =
+INFO  06:21:41,955 - #44 i
+INFO  06:21:41,955 - #11 +
+INFO  06:21:41,956 - #43 1
+INFO  06:21:41,956 - #5 ;
+INFO  06:21:41,956 - #44 j
+INFO  06:21:41,956 - #31 <
+INFO  06:21:41,956 - #44 len
+INFO  06:21:41,956 - #6 (
+INFO  06:21:41,956 - #44 arr
+INFO  06:21:41,956 - #7 )
+INFO  06:21:41,956 - #5 ;
+INFO  06:21:41,956 - #44 j
+INFO  06:21:41,956 - #35 ++
+INFO  06:21:41,957 - #7 )
+INFO  06:21:41,957 - #3 {
+INFO  06:21:41,957 - #46 if
+INFO  06:21:41,957 - #6 (
+INFO  06:21:41,957 - #44 arr
+INFO  06:21:41,957 - #37 [
+INFO  06:21:41,957 - #44 i
+INFO  06:21:41,957 - #38 ]
+INFO  06:21:41,957 - #48 .
+INFO  06:21:41,957 - #44 sum
+INFO  06:21:41,957 - #6 (
+INFO  06:21:41,957 - #7 )
+INFO  06:21:41,957 - #29 >
+INFO  06:21:41,957 - #44 arr
+INFO  06:21:41,958 - #37 [
+INFO  06:21:41,958 - #44 j
+INFO  06:21:41,958 - #38 ]
+INFO  06:21:41,958 - #48 .
+INFO  06:21:41,958 - #44 sum
+INFO  06:21:41,958 - #6 (
+INFO  06:21:41,958 - #7 )
+INFO  06:21:41,958 - #7 )
+INFO  06:21:41,958 - #3 {
+INFO  06:21:41,958 - #44 swap
+INFO  06:21:41,958 - #6 (
+INFO  06:21:41,959 - #44 i
+INFO  06:21:41,959 - #8 ,
+INFO  06:21:41,959 - #44 j
+INFO  06:21:41,959 - #7 )
+INFO  06:21:41,959 - #5 ;
+INFO  06:21:41,959 - #4 }
+INFO  06:21:41,959 - #4 }
+INFO  06:21:41,959 - #4 }
+INFO  06:21:41,959 - #4 }
+INFO  06:21:41,959 - #4 }
+INFO  06:21:41,959 - #4 }
+INFO  06:21:41,959 - #3 {
+INFO  06:21:41,959 - #13 void
+INFO  06:21:41,959 - #44 main
+INFO  06:21:41,959 - #6 (
+INFO  06:21:41,959 - #7 )
+INFO  06:21:41,960 - #44 C
+INFO  06:21:41,960 - #44 c
+INFO  06:21:41,960 - #5 ;
+INFO  06:21:41,960 - #3 {
+INFO  06:21:41,960 - #44 c
+INFO  06:21:41,960 - #12 =
+INFO  06:21:41,960 - #19 new
+INFO  06:21:41,960 - #44 C
+INFO  06:21:41,960 - #5 ;
+INFO  06:21:41,960 - #44 c
+INFO  06:21:41,960 - #48 .
+INFO  06:21:41,960 - #44 construct
+INFO  06:21:41,960 - #6 (
+INFO  06:21:41,960 - #7 )
+INFO  06:21:41,960 - #5 ;
+INFO  06:21:41,960 - #44 c
+INFO  06:21:41,960 - #48 .
+INFO  06:21:41,960 - #44 populate
+INFO  06:21:41,960 - #6 (
+INFO  06:21:41,961 - #43 10
+INFO  06:21:41,961 - #7 )
+INFO  06:21:41,961 - #5 ;
+INFO  06:21:41,961 - #44 c
+INFO  06:21:41,961 - #48 .
+INFO  06:21:41,961 - #44 dump
+INFO  06:21:41,962 - #6 (
+INFO  06:21:41,962 - #7 )
+INFO  06:21:41,962 - #5 ;
+INFO  06:21:41,962 - #9 print
+INFO  06:21:41,962 - #6 (
+INFO  06:21:41,962 - #44 eol
+INFO  06:21:41,962 - #7 )
+INFO  06:21:41,962 - #5 ;
+INFO  06:21:41,962 - #44 c
+INFO  06:21:41,962 - #48 .
+INFO  06:21:41,962 - #44 swap
+INFO  06:21:41,962 - #6 (
+INFO  06:21:41,962 - #43 0
+INFO  06:21:41,962 - #8 ,
+INFO  06:21:41,962 - #43 3
+INFO  06:21:41,962 - #7 )
+INFO  06:21:41,963 - #5 ;
+INFO  06:21:41,963 - #44 c
+INFO  06:21:41,963 - #48 .
+INFO  06:21:41,963 - #44 swap
+INFO  06:21:41,963 - #6 (
+INFO  06:21:41,963 - #43 1
+INFO  06:21:41,963 - #8 ,
+INFO  06:21:41,963 - #43 2
+INFO  06:21:41,963 - #7 )
+INFO  06:21:41,963 - #5 ;
+INFO  06:21:41,963 - #44 c
+INFO  06:21:41,963 - #48 .
+INFO  06:21:41,963 - #44 swap
+INFO  06:21:41,963 - #6 (
+INFO  06:21:41,963 - #43 1
+INFO  06:21:41,963 - #8 ,
+INFO  06:21:41,963 - #43 0
+INFO  06:21:41,963 - #7 )
+INFO  06:21:41,963 - #5 ;
+INFO  06:21:41,963 - #44 c
+INFO  06:21:41,963 - #48 .
+INFO  06:21:41,963 - #44 dump
+INFO  06:21:41,963 - #6 (
+INFO  06:21:41,963 - #7 )
+INFO  06:21:41,964 - #5 ;
+INFO  06:21:41,964 - #9 print
+INFO  06:21:41,964 - #6 (
+INFO  06:21:41,964 - #44 eol
+INFO  06:21:41,964 - #7 )
+INFO  06:21:41,964 - #5 ;
+INFO  06:21:41,964 - #44 c
+INFO  06:21:41,964 - #48 .
+INFO  06:21:41,964 - #44 sort
+INFO  06:21:41,964 - #6 (
+INFO  06:21:41,964 - #7 )
+INFO  06:21:41,964 - #5 ;
+INFO  06:21:41,964 - #44 c
+INFO  06:21:41,964 - #48 .
+INFO  06:21:41,964 - #44 dump
+INFO  06:21:41,964 - #6 (
+INFO  06:21:41,964 - #7 )
+INFO  06:21:41,964 - #5 ;
+INFO  06:21:41,964 - #9 print
+INFO  06:21:41,964 - #6 (
+INFO  06:21:41,964 - #44 eol
+INFO  06:21:41,964 - #7 )
+INFO  06:21:41,964 - #5 ;
+INFO  06:21:41,964 - #9 print
+INFO  06:21:41,964 - #6 (
+INFO  06:21:41,965 - #44 c
+INFO  06:21:41,965 - #48 .
+INFO  06:21:41,965 - #44 arr
+INFO  06:21:41,965 - #37 [
+INFO  06:21:41,965 - #43 0
+INFO  06:21:41,965 - #38 ]
+INFO  06:21:41,965 - #48 .
+INFO  06:21:41,965 - #44 a
+INFO  06:21:41,965 - #48 .
+INFO  06:21:41,965 - #44 equal
+INFO  06:21:41,965 - #6 (
+INFO  06:21:41,966 - #44 c
+INFO  06:21:41,966 - #48 .
+INFO  06:21:41,966 - #44 arr
+INFO  06:21:41,966 - #37 [
+INFO  06:21:41,966 - #43 0
+INFO  06:21:41,966 - #38 ]
+INFO  06:21:41,966 - #48 .
+INFO  06:21:41,966 - #44 a
+INFO  06:21:41,966 - #7 )
+INFO  06:21:41,966 - #7 )
+INFO  06:21:41,966 - #5 ;
+INFO  06:21:41,966 - #9 print
+INFO  06:21:41,966 - #6 (
+INFO  06:21:41,966 - #44 c
+INFO  06:21:41,966 - #48 .
+INFO  06:21:41,967 - #44 arr
+INFO  06:21:41,967 - #37 [
+INFO  06:21:41,967 - #43 0
+INFO  06:21:41,967 - #38 ]
+INFO  06:21:41,967 - #48 .
+INFO  06:21:41,967 - #44 a
+INFO  06:21:41,967 - #48 .
+INFO  06:21:41,967 - #44 equal
+INFO  06:21:41,967 - #6 (
+INFO  06:21:41,967 - #44 c
+INFO  06:21:41,967 - #48 .
+INFO  06:21:41,967 - #44 arr
+INFO  06:21:41,967 - #37 [
+INFO  06:21:41,967 - #43 1
+INFO  06:21:41,967 - #38 ]
+INFO  06:21:41,967 - #48 .
+INFO  06:21:41,967 - #44 a
+INFO  06:21:41,967 - #7 )
+INFO  06:21:41,968 - #7 )
+INFO  06:21:41,968 - #5 ;
+INFO  06:21:41,968 - #9 print
+INFO  06:21:41,968 - #6 (
+INFO  06:21:41,968 - #44 c
+INFO  06:21:41,968 - #48 .
+INFO  06:21:41,968 - #44 arr
+INFO  06:21:41,968 - #37 [
+INFO  06:21:41,968 - #43 1
+INFO  06:21:41,968 - #38 ]
+INFO  06:21:41,968 - #48 .
+INFO  06:21:41,968 - #44 a
+INFO  06:21:41,968 - #48 .
+INFO  06:21:41,968 - #44 equal
+INFO  06:21:41,968 - #6 (
+INFO  06:21:41,968 - #44 c
+INFO  06:21:41,968 - #48 .
+INFO  06:21:41,968 - #44 arr
+INFO  06:21:41,969 - #37 [
+INFO  06:21:41,969 - #43 0
+INFO  06:21:41,969 - #38 ]
+INFO  06:21:41,969 - #48 .
+INFO  06:21:41,969 - #44 a
+INFO  06:21:41,969 - #7 )
+INFO  06:21:41,969 - #7 )
+INFO  06:21:41,969 - #5 ;
+INFO  06:21:41,969 - #9 print
+INFO  06:21:41,969 - #6 (
+INFO  06:21:41,969 - #44 c
+INFO  06:21:41,969 - #48 .
+INFO  06:21:41,969 - #44 arr
+INFO  06:21:41,969 - #37 [
+INFO  06:21:41,969 - #43 1
+INFO  06:21:41,969 - #38 ]
+INFO  06:21:41,969 - #48 .
+INFO  06:21:41,969 - #44 a
+INFO  06:21:41,970 - #48 .
+INFO  06:21:41,970 - #44 equal
+INFO  06:21:41,970 - #6 (
+INFO  06:21:41,970 - #44 c
+INFO  06:21:41,970 - #48 .
+INFO  06:21:41,970 - #44 arr
+INFO  06:21:41,970 - #37 [
+INFO  06:21:41,970 - #43 1
+INFO  06:21:41,970 - #38 ]
+INFO  06:21:41,970 - #48 .
+INFO  06:21:41,970 - #44 a
+INFO  06:21:41,970 - #7 )
+INFO  06:21:41,970 - #7 )
+INFO  06:21:41,970 - #5 ;
+INFO  06:21:41,970 - #9 print
+INFO  06:21:41,970 - #6 (
+INFO  06:21:41,970 - #44 eol
+INFO  06:21:41,970 - #7 )
+INFO  06:21:41,970 - #5 ;
+INFO  06:21:41,971 - #9 print
+INFO  06:21:41,971 - #6 (
+INFO  06:21:41,971 - #44 eol
+INFO  06:21:41,971 - #7 )
+INFO  06:21:41,971 - #5 ;
+INFO  06:21:41,971 - #9 print
+INFO  06:21:41,971 - #6 (
+INFO  06:21:41,971 - #42 D
+INFO  06:21:41,971 - #7 )
+INFO  06:21:41,971 - #5 ;
+INFO  06:21:41,971 - #9 print
+INFO  06:21:41,971 - #6 (
+INFO  06:21:41,971 - #42 O
+INFO  06:21:41,972 - #7 )
+INFO  06:21:41,972 - #5 ;
+INFO  06:21:41,972 - #9 print
+INFO  06:21:41,972 - #6 (
+INFO  06:21:41,972 - #42 N
+INFO  06:21:41,972 - #7 )
+INFO  06:21:41,972 - #5 ;
+INFO  06:21:41,972 - #9 print
+INFO  06:21:41,972 - #6 (
+INFO  06:21:41,972 - #42 E
+INFO  06:21:41,972 - #7 )
+INFO  06:21:41,972 - #5 ;
+INFO  06:21:41,972 - #9 print
+INFO  06:21:41,972 - #6 (
+INFO  06:21:41,972 - #42 !
+INFO  06:21:41,972 - #7 )
+INFO  06:21:41,972 - #5 ;
+INFO  06:21:41,972 - #4 }
+INFO  06:21:41,972 - #4 }
+INFO  06:21:41,973 - =================================================================================
+INFO  06:21:41,986 - Pretraga na liniji 16 (arr) , nadjeno 
+INFO  06:21:41,987 - Pretraga na liniji 26 (this) , nadjeno 
+INFO  06:21:41,987 - Pretraga na liniji 26 (a) , nadjeno 
+INFO  06:21:41,987 -  method populate method2 populate
+INFO  06:21:41,988 - Pretraga na liniji 39 (a) , nadjeno 
+INFO  06:21:41,988 - Pretraga na liniji 40 (a) , nadjeno 
+INFO  06:21:41,988 - Pretraga na liniji 40 (construct) , nadjeno 
+INFO  06:21:41,988 - Pretraga na liniji 40 Pronadjen poziv funkcije construct
+INFO  06:21:41,989 - Pretraga na liniji 46 (i) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 46 (i) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 46 (len) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 46 (a) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 46 (arr) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 46 Pronadjen poziv funkcije len
+INFO  06:21:41,989 - Pretraga na liniji 46 (i) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 48 (a) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 48 (arr) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 48 (i) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 48 (v) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 48 (v) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 48 (i) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 54 (r) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 55 (i) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 55 (i) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 55 (len) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 55 (a) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 55 (arr) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 55 Pronadjen poziv funkcije len
+INFO  06:21:41,989 - Pretraga na liniji 55 (i) , nadjeno 
+INFO  06:21:41,989 - Pretraga na liniji 56 (r) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 56 (r) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 56 (a) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 56 (arr) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 56 (i) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 57 (r) , nadjeno 
+INFO  06:21:41,990 -  method populate method2 populate
+INFO  06:21:41,990 - Pretraga na liniji 69 (arr) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 75 (i) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 75 (i) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 75 (len) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 75 (arr) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 75 Pronadjen poziv funkcije len
+INFO  06:21:41,990 - Pretraga na liniji 75 (i) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 77 (arr) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 77 (i) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 78 (arr) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 78 (i) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 78 (construct) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 78 Pronadjen poziv funkcije construct
+INFO  06:21:41,990 - Pretraga na liniji 79 (arr) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 79 (i) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 79 (populate) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 79 (v) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 79 (i) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 79 Pronadjen poziv funkcije populate
+INFO  06:21:41,990 - Pretraga na liniji 86 (i) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 86 (i) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 86 (len) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 86 (arr) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 86 Pronadjen poziv funkcije len
+INFO  06:21:41,990 - Pretraga na liniji 86 (i) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 88 (j) , nadjeno 
+INFO  06:21:41,990 - Pretraga na liniji 88 (j) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 88 (len) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 88 (arr) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 88 (i) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 88 (a) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 88 (arr) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 88 Pronadjen poziv funkcije len
+INFO  06:21:41,991 - Pretraga na liniji 88 (j) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 90 (arr) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 90 (i) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 90 (a) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 90 (arr) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 90 (j) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 93 (eol) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 99 (temp) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 99 (arr) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 99 (i) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 100 (arr) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 100 (i) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 100 (arr) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 100 (j) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 101 (arr) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 101 (j) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 101 (temp) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 107 (i) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 107 (i) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 107 (len) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 107 (arr) , nadjeno 
+INFO  06:21:41,991 - Pretraga na liniji 107 Pronadjen poziv funkcije len
+INFO  06:21:41,992 - Pretraga na liniji 107 (i) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 109 (j) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 109 (i) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 109 (j) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 109 (len) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 109 (arr) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 109 Pronadjen poziv funkcije len
+INFO  06:21:41,992 - Pretraga na liniji 109 (j) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 111 (arr) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 111 (i) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 111 (sum) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 111 Pronadjen poziv funkcije sum
+INFO  06:21:41,992 - Pretraga na liniji 111 (arr) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 111 (j) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 111 (sum) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 111 Pronadjen poziv funkcije sum
+INFO  06:21:41,992 - Pretraga na liniji 113 (swap) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 113 (i) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 113 (j) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 113 Pronadjen poziv funkcije swap
+INFO  06:21:41,992 -  method populate method2 populate
+INFO  06:21:41,992 - Pretraga na liniji 124 (c) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 125 (c) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 125 (construct) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 125 Pronadjen poziv funkcije construct
+INFO  06:21:41,992 - Pretraga na liniji 126 (c) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 126 (populate) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 126 Pronadjen poziv funkcije populate
+INFO  06:21:41,992 - Pretraga na liniji 133 (c) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 133 (dump) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 133 Pronadjen poziv funkcije dump
+INFO  06:21:41,992 - Pretraga na liniji 133 (eol) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 135 (c) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 135 (swap) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 135 Pronadjen poziv funkcije swap
+INFO  06:21:41,992 - Pretraga na liniji 136 (c) , nadjeno 
+INFO  06:21:41,992 - Pretraga na liniji 136 (swap) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 136 Pronadjen poziv funkcije swap
+INFO  06:21:41,993 - Pretraga na liniji 137 (c) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 137 (swap) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 137 Pronadjen poziv funkcije swap
+INFO  06:21:41,993 - Pretraga na liniji 144 (c) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 144 (dump) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 144 Pronadjen poziv funkcije dump
+INFO  06:21:41,993 - Pretraga na liniji 144 (eol) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 146 (c) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 146 (sort) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 146 Pronadjen poziv funkcije sort
+INFO  06:21:41,993 - Pretraga na liniji 153 (c) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 153 (dump) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 153 Pronadjen poziv funkcije dump
+INFO  06:21:41,993 - Pretraga na liniji 153 (eol) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 156 (c) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 156 (arr) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 156 (a) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 156 (equal) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 156 (c) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 156 (arr) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 156 (a) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 156 Pronadjen poziv funkcije equal
+INFO  06:21:41,993 - Pretraga na liniji 157 (c) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 157 (arr) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 157 (a) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 157 (equal) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 157 (c) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 157 (arr) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 157 (a) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 157 Pronadjen poziv funkcije equal
+INFO  06:21:41,993 - Pretraga na liniji 158 (c) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 158 (arr) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 158 (a) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 158 (equal) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 158 (c) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 158 (arr) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 158 (a) , nadjeno 
+INFO  06:21:41,993 - Pretraga na liniji 158 Pronadjen poziv funkcije equal
+INFO  06:21:41,994 - Pretraga na liniji 159 (c) , nadjeno 
+INFO  06:21:41,994 - Pretraga na liniji 159 (arr) , nadjeno 
+INFO  06:21:41,994 - Pretraga na liniji 159 (a) , nadjeno 
+INFO  06:21:41,994 - Pretraga na liniji 159 (equal) , nadjeno 
+INFO  06:21:41,994 - Pretraga na liniji 159 (c) , nadjeno 
+INFO  06:21:41,994 - Pretraga na liniji 159 (arr) , nadjeno 
+INFO  06:21:41,994 - Pretraga na liniji 159 (a) , nadjeno 
+INFO  06:21:41,994 - Pretraga na liniji 159 Pronadjen poziv funkcije equal
+INFO  06:21:41,994 - Pretraga na liniji 160 (eol) , nadjeno 
+INFO  06:21:41,994 - Pretraga na liniji 162 (eol) , nadjeno 
+INFO  06:21:41,994 - Generating bytecode file: D:\faks\milos\4 god 1 sem\pp1\projekat\projekateclipse\MJCompiler\program.obj
+INFO  06:21:42,009 - Parsiranje uspesno zavrseno!

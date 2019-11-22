@@ -1,0 +1,169 @@
+INFO  16:14:54,220 - Compiling source file: D:\faks\milos\4 god 1 sem\pp1\projekat\projekateclipse\MJCompiler\program3.mj
+INFO  16:14:54,299 - #2 program
+INFO  16:14:54,299 - #44 P
+INFO  16:14:54,299 - #24 const
+INFO  16:14:54,300 - #44 int
+INFO  16:14:54,300 - #44 size
+INFO  16:14:54,302 - #12 =
+INFO  16:14:54,302 - #43 10
+INFO  16:14:54,302 - #5 ;
+INFO  16:14:54,303 - #21 enum
+INFO  16:14:54,303 - #44 Num
+INFO  16:14:54,303 - #3 {
+INFO  16:14:54,304 - #44 ZERO
+INFO  16:14:54,304 - #8 ,
+INFO  16:14:54,304 - #44 ONE
+INFO  16:14:54,304 - #8 ,
+INFO  16:14:54,304 - #44 TEN
+INFO  16:14:54,305 - #12 =
+INFO  16:14:54,305 - #43 10
+INFO  16:14:54,305 - #4 }
+INFO  16:14:54,305 - #44 int
+INFO  16:14:54,306 - #44 xd
+INFO  16:14:54,306 - #5 ;
+INFO  16:14:54,307 - #3 {
+INFO  16:14:54,307 - #13 void
+INFO  16:14:54,308 - #44 f
+INFO  16:14:54,308 - #6 (
+INFO  16:14:54,308 - #44 char
+INFO  16:14:54,308 - #44 ch
+INFO  16:14:54,308 - #8 ,
+INFO  16:14:54,308 - #44 int
+INFO  16:14:54,308 - #44 a
+INFO  16:14:54,308 - #8 ,
+INFO  16:14:54,309 - #44 int
+INFO  16:14:54,309 - #44 arg
+INFO  16:14:54,309 - #7 )
+INFO  16:14:54,309 - #44 int
+INFO  16:14:54,310 - #44 x
+INFO  16:14:54,310 - #5 ;
+INFO  16:14:54,310 - #3 {
+INFO  16:14:54,310 - #44 x
+INFO  16:14:54,311 - #12 =
+INFO  16:14:54,315 - #44 arg
+INFO  16:14:54,315 - #5 ;
+INFO  16:14:54,317 - #4 }
+INFO  16:14:54,317 - #13 void
+INFO  16:14:54,318 - #44 main
+INFO  16:14:54,318 - #6 (
+INFO  16:14:54,318 - #7 )
+INFO  16:14:54,318 - #44 int
+INFO  16:14:54,319 - #44 x
+INFO  16:14:54,319 - #8 ,
+INFO  16:14:54,319 - #44 i
+INFO  16:14:54,319 - #5 ;
+INFO  16:14:54,319 - #44 char
+INFO  16:14:54,319 - #44 c
+INFO  16:14:54,319 - #5 ;
+INFO  16:14:54,319 - #3 {
+INFO  16:14:54,319 - #16 for
+INFO  16:14:54,319 - #6 (
+INFO  16:14:54,319 - #44 i
+INFO  16:14:54,319 - #12 =
+INFO  16:14:54,319 - #43 0
+INFO  16:14:54,319 - #5 ;
+INFO  16:14:54,320 - #44 i
+INFO  16:14:54,320 - #31 <
+INFO  16:14:54,320 - #44 size
+INFO  16:14:54,321 - #5 ;
+INFO  16:14:54,323 - #44 i
+INFO  16:14:54,323 - #35 ++
+INFO  16:14:54,323 - #7 )
+INFO  16:14:54,323 - #3 {
+INFO  16:14:54,324 - #44 c
+INFO  16:14:54,324 - #12 =
+INFO  16:14:54,324 - #42 3
+INFO  16:14:54,324 - #5 ;
+INFO  16:14:54,324 - #44 x
+INFO  16:14:54,325 - #12 =
+INFO  16:14:54,325 - #44 x
+INFO  16:14:54,325 - #11 +
+INFO  16:14:54,325 - #44 i
+INFO  16:14:54,326 - #5 ;
+INFO  16:14:54,326 - #4 }
+INFO  16:14:54,326 - #44 f
+INFO  16:14:54,327 - #6 (
+INFO  16:14:54,327 - #44 c
+INFO  16:14:54,328 - #8 ,
+INFO  16:14:54,328 - #44 x
+INFO  16:14:54,328 - #8 ,
+INFO  16:14:54,328 - #44 i
+INFO  16:14:54,328 - #7 )
+INFO  16:14:54,329 - #5 ;
+INFO  16:14:54,329 - #14 read
+INFO  16:14:54,329 - #6 (
+INFO  16:14:54,329 - #44 x
+INFO  16:14:54,329 - #7 )
+INFO  16:14:54,330 - #5 ;
+INFO  16:14:54,330 - #16 for
+INFO  16:14:54,330 - #6 (
+INFO  16:14:54,330 - #5 ;
+INFO  16:14:54,331 - #44 x
+INFO  16:14:54,331 - #29 >
+INFO  16:14:54,331 - #43 0
+INFO  16:14:54,332 - #5 ;
+INFO  16:14:54,332 - #7 )
+INFO  16:14:54,332 - #3 {
+INFO  16:14:54,332 - #45 if
+INFO  16:14:54,332 - #6 (
+INFO  16:14:54,332 - #44 Num
+INFO  16:14:54,332 - #47 .
+INFO  16:14:54,332 - #44 ZERO
+INFO  16:14:54,332 - #32 <=
+INFO  16:14:54,333 - #44 x
+INFO  16:14:54,333 - #33 &&
+INFO  16:14:54,334 - #44 x
+INFO  16:14:54,334 - #31 <
+INFO  16:14:54,334 - #44 size
+INFO  16:14:54,334 - #7 )
+INFO  16:14:54,334 - #3 {
+INFO  16:14:54,334 - #44 x
+INFO  16:14:54,335 - #12 =
+INFO  16:14:54,335 - #44 x
+INFO  16:14:54,335 - #11 +
+INFO  16:14:54,335 - #44 Num
+INFO  16:14:54,338 - #47 .
+INFO  16:14:54,338 - #44 ONE
+INFO  16:14:54,338 - #5 ;
+INFO  16:14:54,339 - #4 }
+INFO  16:14:54,339 - #46 else
+INFO  16:14:54,339 - #45 if
+INFO  16:14:54,339 - #6 (
+INFO  16:14:54,339 - #25 -
+INFO  16:14:54,339 - #44 size
+INFO  16:14:54,339 - #31 <
+INFO  16:14:54,339 - #44 x
+INFO  16:14:54,339 - #33 &&
+INFO  16:14:54,339 - #44 x
+INFO  16:14:54,339 - #31 <
+INFO  16:14:54,339 - #43 0
+INFO  16:14:54,339 - #7 )
+INFO  16:14:54,339 - #3 {
+INFO  16:14:54,339 - #44 c
+INFO  16:14:54,339 - #36 --
+INFO  16:14:54,339 - #5 ;
+INFO  16:14:54,339 - #4 }
+INFO  16:14:54,340 - #14 read
+INFO  16:14:54,340 - #6 (
+INFO  16:14:54,340 - #44 x
+INFO  16:14:54,340 - #7 )
+INFO  16:14:54,340 - #5 ;
+INFO  16:14:54,340 - #4 }
+INFO  16:14:54,340 - #4 }
+INFO  16:14:54,340 - #4 }
+INFO  16:14:54,341 - =================================================================================
+INFO  16:14:54,361 - Deklarisana promenljiva size na liniji 2
+INFO  16:14:54,361 - Deklarisana promenljiva xd na liniji 5
+INFO  16:14:54,361 - Obradjuje se funkcija f na liniji 8
+INFO  16:14:54,361 - Deklarisana promenljiva x na liniji 9
+INFO  16:14:54,362 - Obradjuje se funkcija main na liniji 13
+INFO  16:14:54,362 - Deklarisana promenljiva x na liniji 14
+INFO  16:14:54,362 - Deklarisana promenljiva i na liniji 14
+INFO  16:14:54,362 - Deklarisana promenljiva c na liniji 15
+INFO  16:14:54,362 - Pronadjen poziv funkcije f na liniji 24
+ERROR 16:14:54,362 - Greska na liniji 31 : ime ZERO nije deklarisano! 
+ERROR 16:14:54,362 - Greska na liniji 33 : ime ONE nije deklarisano! 
+ERROR 16:14:54,362 - Greska na liniji 33 : nekompatibilni tipovi u izrazu za sabiranje.
+ERROR 16:14:54,362 - Greska na liniji 33 : nekompatibilni tipovi u dodeli vrednosti! 
+INFO  16:14:54,362 - Print calls = 0
+INFO  16:14:54,362 - =================================================================================

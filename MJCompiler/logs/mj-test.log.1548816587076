@@ -1,0 +1,67 @@
+INFO  03:49:05,670 - Compiling source file: D:\faks\milos\4 god 1 sem\pp1\projekat\projekateclipse\MJCompiler\program.mj
+INFO  03:49:05,755 - #2 program
+INFO  03:49:05,755 - #44 P
+INFO  03:49:05,755 - #24 const
+INFO  03:49:05,770 - #44 int
+INFO  03:49:05,770 - #44 size
+INFO  03:49:05,770 - #12 =
+INFO  03:49:05,770 - #43 10
+INFO  03:49:05,770 - #5 ;
+INFO  03:49:05,770 - #21 enum
+INFO  03:49:05,770 - #44 Num
+INFO  03:49:05,770 - #3 {
+INFO  03:49:05,770 - #44 ZERO
+INFO  03:49:05,770 - #8 ,
+INFO  03:49:05,770 - #44 ONE
+INFO  03:49:05,770 - #8 ,
+INFO  03:49:05,770 - #44 TEN
+INFO  03:49:05,770 - #12 =
+INFO  03:49:05,770 - #43 10
+INFO  03:49:05,770 - #4 }
+INFO  03:49:05,770 - #44 k
+INFO  03:49:05,770 - #23 interface
+ERROR 03:49:05,770 - 
+Sintaksna greska na liniji 5
+ERROR 03:49:05,770 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 5
+INFO  03:49:05,786 - DeclListsDerived1(
+  DeclListsDerived1(
+    DeclListsDerived2(
+    ) [DeclListsDerived2]
+    DeclListDerived1(
+      ConstDeclsDerived1(
+        Type(
+         int
+        ) [Type]
+        ConstDeclListDerived2(
+          ConstDeclDerived1(
+           size
+            ConstVarDerived1(
+             10
+            ) [ConstVarDerived1]
+          ) [ConstDeclDerived1]
+        ) [ConstDeclListDerived2]
+      ) [ConstDeclsDerived1]
+    ) [DeclListDerived1]
+  ) [DeclListsDerived1]
+  DeclListDerived3(
+    EnumDeclsDerived1(
+     Num
+      EnumVarListDerived1(
+        EnumVarListDerived1(
+          EnumVarListDerived2(
+            EnumVarDerived1(
+             ZERO
+            ) [EnumVarDerived1]
+          ) [EnumVarListDerived2]
+          EnumVarDerived1(
+           ONE
+          ) [EnumVarDerived1]
+        ) [EnumVarListDerived1]
+        EnumVarDerived2(
+         TEN
+         10
+        ) [EnumVarDerived2]
+      ) [EnumVarListDerived1]
+    ) [EnumDeclsDerived1]
+  ) [DeclListDerived3]
+) [DeclListsDerived1]

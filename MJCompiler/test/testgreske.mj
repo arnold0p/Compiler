@@ -1,0 +1,89 @@
+// Test301
+
+program test301
+	char niz[];
+	const int size = 26;
+	int i,j;
+	
+	int b /.; //greska u definisanju globalne
+	int a[];
+	
+	interface Printer
+	{
+		void pisi();
+		
+	}
+	interface Postavljac
+	{
+		int postavi();
+		
+	}
+	
+	class Klasa{
+		int k;
+		int i d;	//greska u definisanju polja klase
+		int niz[];
+		{
+		void postavix(int x){
+			i=x;
+		}
+		}
+	}
+	
+	class Klasa1 extends e Klasa implements Postavljac,Printer{	//greska u extends
+		char k;
+		{
+		int postavi(){
+			this.k = 'a';
+			return 10;
+		}
+		void pisi(){
+		print(k);
+		print('X');
+		}
+		}
+	}
+	
+	
+	
+{
+ 	void uradi(Postavljac k1 ,, Postavljac k2){	//greska u parametrima fje
+ 		if (k2!=null && k1!=null){
+ 			print(k1.postavi());
+ 			print(k2.postavi());
+ 			
+ 		}
+ 	}
+	
+	void main()	
+	int niz[];
+	int e;
+	{
+	
+		k = new Klasa1;
+		k2 = new Klasa2;
+		
+		uradi(k,k2);
+		
+		print(k.k);
+		print(k2.k);
+		k.pisi();
+		k2.pisi();
+		
+		e = 3 +;	//greska u iskazu dodele
+		
+		print(eol);
+		
+		if (e < ){	//greska u ifu
+		 	e = 7;
+		}
+		
+		niz = new int[6];
+		
+		e=2;
+		e  = e + len(niz);
+		print(e);
+		
+		
+	}
+}

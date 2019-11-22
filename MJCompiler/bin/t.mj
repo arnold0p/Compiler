@@ -1,0 +1,74 @@
+// Test301
+
+program test301
+	char niz[];
+	const int size = 26;
+	int i,j;
+	
+	int a[];
+	
+	
+	
+{
+	void vratiniz(int a[])
+	{
+	 	a[0]=1;
+	 	
+	}
+	void main()	
+	{
+		niz = new char[size];
+		//niz[0] = 1;
+		//niz[0]++;
+		//print(niz[0]);
+		
+		i=size-1;
+		
+		for (;i>=0;){
+			if (i % 2 == 0 )
+				niz[i]=chr(i+ord('a'));
+			else
+				niz[i] = '?';
+				
+			//if (i==13)
+			//	break;
+			i--;
+		}
+		
+		for (i=size-1;i>=0;i--){
+		
+			if (i % 2 == 0)
+				continue;
+			print(niz[i]);
+			if (i % 2 == 1 )
+				print(eol);
+			
+			
+		}
+		
+		print(eol);
+		
+		for (i=0;i < size/2 ;i++){
+			if (i==size/2 -2)
+				continue;
+			for (j=i;j<i+2;j++){
+				if (i==0)
+					break;
+				print(niz[i+j]);
+			}	
+		}
+		print(eol);
+		
+		a = new int[3];
+		a[0]=2;
+		print(a[0]);
+	
+		vratiniz(a);
+		
+		print(a[0]);
+		
+		
+		//read(niz[0]);
+		//print(niz[0] + 1);
+	}
+}

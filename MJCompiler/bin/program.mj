@@ -1,0 +1,86 @@
+program P
+
+const int konst = 20;
+int x; int y;
+
+const char l = '3';
+
+char pol ;
+
+int niz [];
+
+enum Num { ZERO, ONE, TEN = 10 }
+
+{
+	int k () int c; {
+	
+		c = 1;
+		pol = '<';
+		return c+2;
+	}
+	
+	int moje(int e,int x)
+	int kkk;
+	{
+		kkk = 10;
+		
+		return kkk + e - x;
+	}
+	
+	void test(char d, int a){
+	}
+	void main()
+	int ae;
+	 {
+	 
+	 	test('3',3);
+	 	
+		y = 2;
+		x = y + 2 - 2;
+		y = (((k() + 3 ) * 2 + konst + y/1)/x) % 5;
+		
+		print(y);
+		
+		print(x);
+		
+		y = y + Num.TEN;
+		
+		print(y);
+		
+		print(' ');
+		
+		print(pol);
+		
+		print(l);
+		
+		
+		niz = new int[5];
+		
+		
+		niz[3] = -1;
+		
+		x = niz[3] ;
+		
+		k();
+		
+		print(x);
+		
+		print(pol);
+		
+		print(-k());
+		
+		x = niz[3];
+		
+		print(x);
+		
+		niz[4] = -niz[3];
+		
+		print(niz[4]);
+		
+		print(moje(10,3));
+		
+		print(moje(niz[3]+9,-moje(10,3))); //moje 7,-17
+		
+		return;
+	}
+}

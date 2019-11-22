@@ -1,0 +1,922 @@
+INFO  03:48:42,354 - Compiling source file: D:\faks\milos\4 god 1 sem\pp1\projekat\projekateclipse\MJCompiler\test303.mj
+INFO  03:48:42,432 - #2 program
+INFO  03:48:42,433 - #44 test_303
+INFO  03:48:42,433 - #24 const
+INFO  03:48:42,434 - #44 int
+INFO  03:48:42,434 - #44 cinilac
+INFO  03:48:42,435 - #12 =
+INFO  03:48:42,435 - #43 4
+INFO  03:48:42,435 - #8 ,
+INFO  03:48:42,435 - #44 delilac
+INFO  03:48:42,435 - #12 =
+INFO  03:48:42,435 - #43 3
+INFO  03:48:42,436 - #5 ;
+INFO  03:48:42,436 - #21 enum
+INFO  03:48:42,436 - #44 VrstaPredmeta
+INFO  03:48:42,436 - #3 {
+INFO  03:48:42,437 - #44 SFERA
+INFO  03:48:42,437 - #8 ,
+INFO  03:48:42,437 - #44 KVADAR
+INFO  03:48:42,437 - #4 }
+INFO  03:48:42,437 - #23 interface
+INFO  03:48:42,438 - #44 IPredmet
+INFO  03:48:42,438 - #3 {
+INFO  03:48:42,439 - #44 int
+INFO  03:48:42,439 - #44 zapremina
+INFO  03:48:42,439 - #6 (
+INFO  03:48:42,440 - #7 )
+INFO  03:48:42,440 - #5 ;
+INFO  03:48:42,440 - #44 int
+INFO  03:48:42,441 - #44 Q
+INFO  03:48:42,441 - #6 (
+INFO  03:48:42,441 - #7 )
+INFO  03:48:42,441 - #5 ;
+INFO  03:48:42,442 - #4 }
+INFO  03:48:42,442 - #22 class
+INFO  03:48:42,443 - #44 Predmet
+INFO  03:48:42,443 - #20 implements
+INFO  03:48:42,444 - #44 IPredmet
+INFO  03:48:42,444 - #3 {
+INFO  03:48:42,445 - #44 int
+INFO  03:48:42,445 - #44 tezina
+INFO  03:48:42,446 - #5 ;
+INFO  03:48:42,446 - #44 VrstaPredmeta
+INFO  03:48:42,446 - #44 vrsta
+INFO  03:48:42,446 - #5 ;
+INFO  03:48:42,446 - #3 {
+INFO  03:48:42,446 - #13 void
+INFO  03:48:42,447 - #44 postaviTezinu
+INFO  03:48:42,447 - #6 (
+INFO  03:48:42,447 - #44 int
+INFO  03:48:42,448 - #44 tezina
+INFO  03:48:42,448 - #7 )
+INFO  03:48:42,448 - #3 {
+INFO  03:48:42,449 - #44 this
+INFO  03:48:42,449 - #47 .
+INFO  03:48:42,450 - #44 tezina
+INFO  03:48:42,450 - #12 =
+INFO  03:48:42,452 - #44 tezina
+INFO  03:48:42,452 - #5 ;
+INFO  03:48:42,454 - #4 }
+INFO  03:48:42,458 - #13 void
+INFO  03:48:42,459 - #44 ucitajTezinu
+INFO  03:48:42,459 - #6 (
+INFO  03:48:42,459 - #7 )
+INFO  03:48:42,459 - #3 {
+INFO  03:48:42,459 - #14 read
+INFO  03:48:42,459 - #6 (
+INFO  03:48:42,459 - #44 tezina
+INFO  03:48:42,459 - #7 )
+INFO  03:48:42,459 - #5 ;
+INFO  03:48:42,459 - #4 }
+INFO  03:48:42,459 - #44 int
+INFO  03:48:42,459 - #44 zapremina
+INFO  03:48:42,460 - #6 (
+INFO  03:48:42,460 - #7 )
+INFO  03:48:42,460 - #3 {
+INFO  03:48:42,460 - #10 return
+INFO  03:48:42,460 - #43 0
+INFO  03:48:42,460 - #5 ;
+INFO  03:48:42,460 - #4 }
+INFO  03:48:42,460 - #44 int
+INFO  03:48:42,460 - #44 Q
+INFO  03:48:42,460 - #6 (
+INFO  03:48:42,460 - #7 )
+INFO  03:48:42,460 - #3 {
+INFO  03:48:42,461 - #10 return
+INFO  03:48:42,461 - #44 zapremina
+INFO  03:48:42,461 - #6 (
+INFO  03:48:42,461 - #7 )
+INFO  03:48:42,462 - #39 *
+INFO  03:48:42,462 - #44 tezina
+INFO  03:48:42,463 - #5 ;
+INFO  03:48:42,463 - #4 }
+INFO  03:48:42,463 - #13 void
+INFO  03:48:42,464 - #44 postaviVrstu
+INFO  03:48:42,464 - #6 (
+INFO  03:48:42,464 - #44 VrstaPredmeta
+INFO  03:48:42,464 - #44 vrsta
+INFO  03:48:42,464 - #7 )
+INFO  03:48:42,464 - #3 {
+INFO  03:48:42,464 - #44 this
+INFO  03:48:42,464 - #47 .
+INFO  03:48:42,464 - #44 vrsta
+INFO  03:48:42,464 - #12 =
+INFO  03:48:42,464 - #44 vrsta
+INFO  03:48:42,464 - #5 ;
+INFO  03:48:42,465 - #4 }
+INFO  03:48:42,465 - #4 }
+INFO  03:48:42,465 - #4 }
+INFO  03:48:42,465 - #22 class
+INFO  03:48:42,466 - #44 Sfera
+INFO  03:48:42,466 - #15 extends
+INFO  03:48:42,466 - #44 Predmet
+INFO  03:48:42,466 - #3 {
+INFO  03:48:42,467 - #44 int
+INFO  03:48:42,467 - #44 r
+INFO  03:48:42,467 - #5 ;
+INFO  03:48:42,467 - #3 {
+INFO  03:48:42,467 - #13 void
+INFO  03:48:42,467 - #44 postaviTezinu
+INFO  03:48:42,467 - #6 (
+INFO  03:48:42,467 - #44 int
+INFO  03:48:42,467 - #44 tezina
+INFO  03:48:42,467 - #7 )
+INFO  03:48:42,467 - #3 {
+INFO  03:48:42,467 - #44 this
+INFO  03:48:42,467 - #47 .
+INFO  03:48:42,467 - #44 tezina
+INFO  03:48:42,467 - #12 =
+INFO  03:48:42,467 - #44 tezina
+INFO  03:48:42,468 - #5 ;
+INFO  03:48:42,468 - #44 vrsta
+INFO  03:48:42,468 - #12 =
+INFO  03:48:42,468 - #44 VrstaPredmeta
+INFO  03:48:42,468 - #47 .
+INFO  03:48:42,468 - #44 SFERA
+INFO  03:48:42,468 - #5 ;
+INFO  03:48:42,468 - #4 }
+INFO  03:48:42,468 - #13 void
+INFO  03:48:42,468 - #44 postaviPoluprecnik
+INFO  03:48:42,468 - #6 (
+INFO  03:48:42,468 - #44 int
+INFO  03:48:42,468 - #44 r
+INFO  03:48:42,468 - #7 )
+INFO  03:48:42,468 - #3 {
+INFO  03:48:42,469 - #44 this
+INFO  03:48:42,469 - #47 .
+INFO  03:48:42,469 - #44 r
+INFO  03:48:42,469 - #12 =
+INFO  03:48:42,469 - #44 r
+INFO  03:48:42,469 - #5 ;
+INFO  03:48:42,469 - #44 postaviVrstu
+INFO  03:48:42,469 - #6 (
+INFO  03:48:42,469 - #44 VrstaPredmeta
+INFO  03:48:42,469 - #47 .
+INFO  03:48:42,469 - #44 SFERA
+INFO  03:48:42,469 - #7 )
+INFO  03:48:42,470 - #5 ;
+INFO  03:48:42,470 - #4 }
+INFO  03:48:42,470 - #44 int
+INFO  03:48:42,470 - #44 zapremina
+INFO  03:48:42,470 - #6 (
+INFO  03:48:42,471 - #7 )
+INFO  03:48:42,471 - #44 int
+INFO  03:48:42,471 - #44 z
+INFO  03:48:42,471 - #5 ;
+INFO  03:48:42,471 - #3 {
+INFO  03:48:42,471 - #44 z
+INFO  03:48:42,471 - #12 =
+INFO  03:48:42,471 - #44 cinilac
+INFO  03:48:42,471 - #5 ;
+INFO  03:48:42,472 - #10 return
+INFO  03:48:42,472 - #44 z
+INFO  03:48:42,472 - #39 *
+INFO  03:48:42,472 - #6 (
+INFO  03:48:42,472 - #44 r
+INFO  03:48:42,472 - #40 /
+INFO  03:48:42,472 - #44 delilac
+INFO  03:48:42,473 - #7 )
+INFO  03:48:42,473 - #5 ;
+INFO  03:48:42,473 - #4 }
+INFO  03:48:42,473 - #4 }
+INFO  03:48:42,473 - #4 }
+INFO  03:48:42,473 - #22 class
+INFO  03:48:42,473 - #44 Kvadar
+INFO  03:48:42,473 - #15 extends
+INFO  03:48:42,473 - #44 Predmet
+INFO  03:48:42,473 - #3 {
+INFO  03:48:42,473 - #44 int
+INFO  03:48:42,473 - #44 a
+INFO  03:48:42,473 - #8 ,
+INFO  03:48:42,473 - #44 b
+INFO  03:48:42,473 - #8 ,
+INFO  03:48:42,474 - #44 c
+INFO  03:48:42,474 - #5 ;
+INFO  03:48:42,474 - #3 {
+INFO  03:48:42,474 - #13 void
+INFO  03:48:42,474 - #44 postaviTezinu
+INFO  03:48:42,474 - #6 (
+INFO  03:48:42,474 - #44 int
+INFO  03:48:42,474 - #44 tezina
+INFO  03:48:42,474 - #7 )
+INFO  03:48:42,474 - #3 {
+INFO  03:48:42,474 - #44 this
+INFO  03:48:42,474 - #47 .
+INFO  03:48:42,474 - #44 tezina
+INFO  03:48:42,474 - #12 =
+INFO  03:48:42,474 - #44 tezina
+INFO  03:48:42,474 - #5 ;
+INFO  03:48:42,474 - #44 vrsta
+INFO  03:48:42,475 - #12 =
+INFO  03:48:42,475 - #44 VrstaPredmeta
+INFO  03:48:42,475 - #47 .
+INFO  03:48:42,475 - #44 KVADAR
+INFO  03:48:42,475 - #5 ;
+INFO  03:48:42,475 - #4 }
+INFO  03:48:42,475 - #13 void
+INFO  03:48:42,475 - #44 postaviStranice
+INFO  03:48:42,475 - #6 (
+INFO  03:48:42,475 - #44 int
+INFO  03:48:42,475 - #44 a
+INFO  03:48:42,475 - #8 ,
+INFO  03:48:42,475 - #44 int
+INFO  03:48:42,475 - #44 b
+INFO  03:48:42,475 - #8 ,
+INFO  03:48:42,475 - #44 int
+INFO  03:48:42,475 - #44 c
+INFO  03:48:42,476 - #7 )
+INFO  03:48:42,476 - #3 {
+INFO  03:48:42,476 - #44 this
+INFO  03:48:42,476 - #47 .
+INFO  03:48:42,476 - #44 a
+INFO  03:48:42,476 - #12 =
+INFO  03:48:42,476 - #44 a
+INFO  03:48:42,476 - #5 ;
+INFO  03:48:42,476 - #44 this
+INFO  03:48:42,476 - #47 .
+INFO  03:48:42,476 - #44 b
+INFO  03:48:42,476 - #12 =
+INFO  03:48:42,476 - #44 b
+INFO  03:48:42,476 - #5 ;
+INFO  03:48:42,476 - #44 this
+INFO  03:48:42,477 - #47 .
+INFO  03:48:42,477 - #44 c
+INFO  03:48:42,477 - #12 =
+INFO  03:48:42,477 - #44 c
+INFO  03:48:42,477 - #5 ;
+INFO  03:48:42,477 - #44 vrsta
+INFO  03:48:42,477 - #12 =
+INFO  03:48:42,477 - #44 VrstaPredmeta
+INFO  03:48:42,477 - #47 .
+INFO  03:48:42,477 - #44 KVADAR
+INFO  03:48:42,477 - #5 ;
+INFO  03:48:42,477 - #4 }
+INFO  03:48:42,477 - #44 int
+INFO  03:48:42,477 - #44 zapremina
+INFO  03:48:42,480 - #6 (
+INFO  03:48:42,480 - #7 )
+INFO  03:48:42,480 - #44 int
+INFO  03:48:42,480 - #44 z
+INFO  03:48:42,480 - #5 ;
+INFO  03:48:42,480 - #3 {
+INFO  03:48:42,480 - #44 z
+INFO  03:48:42,481 - #12 =
+INFO  03:48:42,481 - #44 a
+INFO  03:48:42,481 - #39 *
+INFO  03:48:42,481 - #44 b
+INFO  03:48:42,481 - #39 *
+INFO  03:48:42,481 - #44 c
+INFO  03:48:42,482 - #5 ;
+INFO  03:48:42,482 - #10 return
+INFO  03:48:42,482 - #44 z
+INFO  03:48:42,482 - #5 ;
+INFO  03:48:42,483 - #4 }
+INFO  03:48:42,483 - #4 }
+INFO  03:48:42,483 - #4 }
+INFO  03:48:42,483 - #44 int
+INFO  03:48:42,483 - #44 zapreminaK
+INFO  03:48:42,483 - #8 ,
+INFO  03:48:42,483 - #44 zapreminaS
+INFO  03:48:42,483 - #5 ;
+INFO  03:48:42,483 - #44 int
+INFO  03:48:42,483 - #44 tezinaK
+INFO  03:48:42,483 - #8 ,
+INFO  03:48:42,483 - #44 tezinaS
+INFO  03:48:42,483 - #5 ;
+INFO  03:48:42,483 - #3 {
+INFO  03:48:42,484 - #13 void
+INFO  03:48:42,484 - #44 ispis
+INFO  03:48:42,484 - #6 (
+INFO  03:48:42,484 - #44 Predmet
+INFO  03:48:42,484 - #44 p
+INFO  03:48:42,484 - #7 )
+INFO  03:48:42,484 - #3 {
+INFO  03:48:42,484 - #45 if
+INFO  03:48:42,484 - #6 (
+INFO  03:48:42,484 - #44 p
+INFO  03:48:42,484 - #47 .
+INFO  03:48:42,484 - #44 vrsta
+INFO  03:48:42,484 - #27 ==
+INFO  03:48:42,484 - #44 VrstaPredmeta
+INFO  03:48:42,486 - #47 .
+INFO  03:48:42,486 - #44 SFERA
+INFO  03:48:42,486 - #7 )
+INFO  03:48:42,490 - #9 print
+INFO  03:48:42,490 - #6 (
+INFO  03:48:42,490 - #42 S
+INFO  03:48:42,490 - #7 )
+INFO  03:48:42,491 - #5 ;
+INFO  03:48:42,491 - #46 else
+INFO  03:48:42,491 - #45 if
+INFO  03:48:42,492 - #6 (
+INFO  03:48:42,492 - #44 p
+INFO  03:48:42,492 - #47 .
+INFO  03:48:42,492 - #44 vrsta
+INFO  03:48:42,492 - #27 ==
+INFO  03:48:42,492 - #44 VrstaPredmeta
+INFO  03:48:42,492 - #47 .
+INFO  03:48:42,492 - #44 KVADAR
+INFO  03:48:42,492 - #7 )
+INFO  03:48:42,492 - #9 print
+INFO  03:48:42,492 - #6 (
+INFO  03:48:42,492 - #42 K
+INFO  03:48:42,492 - #7 )
+INFO  03:48:42,493 - #5 ;
+INFO  03:48:42,493 - #9 print
+INFO  03:48:42,493 - #6 (
+INFO  03:48:42,493 - #44 eol
+INFO  03:48:42,493 - #7 )
+INFO  03:48:42,493 - #5 ;
+INFO  03:48:42,493 - #9 print
+INFO  03:48:42,493 - #6 (
+INFO  03:48:42,493 - #44 p
+INFO  03:48:42,493 - #47 .
+INFO  03:48:42,493 - #44 tezina
+INFO  03:48:42,493 - #7 )
+INFO  03:48:42,493 - #5 ;
+INFO  03:48:42,493 - #4 }
+INFO  03:48:42,493 - #13 void
+INFO  03:48:42,493 - #44 main
+INFO  03:48:42,493 - #6 (
+INFO  03:48:42,493 - #7 )
+INFO  03:48:42,494 - #44 Predmet
+INFO  03:48:42,494 - #44 predmeti
+INFO  03:48:42,494 - #37 [
+INFO  03:48:42,494 - #38 ]
+INFO  03:48:42,494 - #5 ;
+INFO  03:48:42,494 - #44 IPredmet
+INFO  03:48:42,494 - #44 interPredmeti
+INFO  03:48:42,494 - #37 [
+INFO  03:48:42,494 - #38 ]
+INFO  03:48:42,494 - #5 ;
+INFO  03:48:42,494 - #44 int
+INFO  03:48:42,494 - #44 i
+INFO  03:48:42,494 - #5 ;
+INFO  03:48:42,494 - #44 Sfera
+INFO  03:48:42,494 - #44 s1
+INFO  03:48:42,494 - #8 ,
+INFO  03:48:42,494 - #44 s2
+INFO  03:48:42,494 - #8 ,
+INFO  03:48:42,494 - #44 s3
+INFO  03:48:42,494 - #5 ;
+INFO  03:48:42,494 - #44 Kvadar
+INFO  03:48:42,494 - #44 k1
+INFO  03:48:42,494 - #8 ,
+INFO  03:48:42,494 - #44 k2
+INFO  03:48:42,494 - #8 ,
+INFO  03:48:42,494 - #44 k3
+INFO  03:48:42,494 - #5 ;
+INFO  03:48:42,494 - #44 int
+INFO  03:48:42,494 - #44 t
+INFO  03:48:42,494 - #5 ;
+INFO  03:48:42,494 - #3 {
+INFO  03:48:42,494 - #44 predmeti
+INFO  03:48:42,494 - #12 =
+INFO  03:48:42,494 - #19 new
+INFO  03:48:42,494 - #44 Predmet
+INFO  03:48:42,494 - #37 [
+INFO  03:48:42,494 - #43 6
+INFO  03:48:42,494 - #38 ]
+INFO  03:48:42,494 - #5 ;
+INFO  03:48:42,495 - #44 interPredmeti
+INFO  03:48:42,495 - #12 =
+INFO  03:48:42,495 - #19 new
+INFO  03:48:42,495 - #44 IPredmet
+INFO  03:48:42,495 - #37 [
+INFO  03:48:42,495 - #43 6
+INFO  03:48:42,495 - #38 ]
+INFO  03:48:42,495 - #5 ;
+INFO  03:48:42,495 - #44 s1
+INFO  03:48:42,495 - #12 =
+INFO  03:48:42,495 - #19 new
+INFO  03:48:42,495 - #44 Sfera
+INFO  03:48:42,495 - #5 ;
+INFO  03:48:42,495 - #44 s2
+INFO  03:48:42,495 - #12 =
+INFO  03:48:42,495 - #19 new
+INFO  03:48:42,495 - #44 Sfera
+INFO  03:48:42,495 - #5 ;
+INFO  03:48:42,495 - #44 s3
+INFO  03:48:42,495 - #12 =
+INFO  03:48:42,495 - #19 new
+INFO  03:48:42,495 - #44 Sfera
+INFO  03:48:42,495 - #5 ;
+INFO  03:48:42,496 - #44 k1
+INFO  03:48:42,496 - #12 =
+INFO  03:48:42,496 - #19 new
+INFO  03:48:42,496 - #44 Kvadar
+INFO  03:48:42,496 - #5 ;
+INFO  03:48:42,496 - #44 k2
+INFO  03:48:42,496 - #12 =
+INFO  03:48:42,496 - #19 new
+INFO  03:48:42,496 - #44 Kvadar
+INFO  03:48:42,496 - #5 ;
+INFO  03:48:42,497 - #44 k3
+INFO  03:48:42,497 - #12 =
+INFO  03:48:42,497 - #19 new
+INFO  03:48:42,497 - #44 Kvadar
+INFO  03:48:42,497 - #5 ;
+INFO  03:48:42,497 - #44 s1
+INFO  03:48:42,497 - #47 .
+INFO  03:48:42,497 - #44 postaviPoluprecnik
+INFO  03:48:42,497 - #6 (
+INFO  03:48:42,497 - #43 1
+INFO  03:48:42,497 - #7 )
+INFO  03:48:42,497 - #5 ;
+INFO  03:48:42,497 - #44 s2
+INFO  03:48:42,497 - #47 .
+INFO  03:48:42,497 - #44 postaviPoluprecnik
+INFO  03:48:42,497 - #6 (
+INFO  03:48:42,497 - #43 2
+INFO  03:48:42,497 - #7 )
+INFO  03:48:42,497 - #5 ;
+INFO  03:48:42,497 - #44 s3
+INFO  03:48:42,497 - #47 .
+INFO  03:48:42,497 - #44 postaviPoluprecnik
+INFO  03:48:42,497 - #6 (
+INFO  03:48:42,497 - #43 3
+INFO  03:48:42,497 - #7 )
+INFO  03:48:42,498 - #5 ;
+INFO  03:48:42,498 - #44 k1
+INFO  03:48:42,498 - #47 .
+INFO  03:48:42,498 - #44 postaviStranice
+INFO  03:48:42,498 - #6 (
+INFO  03:48:42,498 - #43 1
+INFO  03:48:42,498 - #8 ,
+INFO  03:48:42,498 - #43 2
+INFO  03:48:42,498 - #8 ,
+INFO  03:48:42,498 - #43 3
+INFO  03:48:42,498 - #7 )
+INFO  03:48:42,498 - #5 ;
+INFO  03:48:42,498 - #44 k2
+INFO  03:48:42,498 - #47 .
+INFO  03:48:42,498 - #44 postaviStranice
+INFO  03:48:42,498 - #6 (
+INFO  03:48:42,498 - #43 2
+INFO  03:48:42,498 - #8 ,
+INFO  03:48:42,498 - #43 3
+INFO  03:48:42,498 - #8 ,
+INFO  03:48:42,498 - #43 4
+INFO  03:48:42,498 - #7 )
+INFO  03:48:42,499 - #5 ;
+INFO  03:48:42,499 - #44 k3
+INFO  03:48:42,499 - #47 .
+INFO  03:48:42,499 - #44 postaviStranice
+INFO  03:48:42,499 - #6 (
+INFO  03:48:42,499 - #43 3
+INFO  03:48:42,499 - #8 ,
+INFO  03:48:42,499 - #43 4
+INFO  03:48:42,499 - #8 ,
+INFO  03:48:42,499 - #43 5
+INFO  03:48:42,499 - #7 )
+INFO  03:48:42,499 - #5 ;
+INFO  03:48:42,499 - #44 predmeti
+INFO  03:48:42,499 - #37 [
+INFO  03:48:42,499 - #43 0
+INFO  03:48:42,499 - #38 ]
+INFO  03:48:42,499 - #12 =
+INFO  03:48:42,499 - #44 s1
+INFO  03:48:42,499 - #5 ;
+INFO  03:48:42,499 - #44 predmeti
+INFO  03:48:42,499 - #37 [
+INFO  03:48:42,499 - #43 2
+INFO  03:48:42,500 - #38 ]
+INFO  03:48:42,500 - #12 =
+INFO  03:48:42,500 - #44 s2
+INFO  03:48:42,500 - #5 ;
+INFO  03:48:42,500 - #44 predmeti
+INFO  03:48:42,500 - #37 [
+INFO  03:48:42,500 - #43 4
+INFO  03:48:42,500 - #38 ]
+INFO  03:48:42,500 - #12 =
+INFO  03:48:42,500 - #44 s3
+INFO  03:48:42,500 - #5 ;
+INFO  03:48:42,500 - #44 predmeti
+INFO  03:48:42,500 - #37 [
+INFO  03:48:42,500 - #43 1
+INFO  03:48:42,501 - #38 ]
+INFO  03:48:42,501 - #12 =
+INFO  03:48:42,501 - #44 k1
+INFO  03:48:42,501 - #5 ;
+INFO  03:48:42,501 - #44 predmeti
+INFO  03:48:42,501 - #37 [
+INFO  03:48:42,501 - #43 3
+INFO  03:48:42,501 - #38 ]
+INFO  03:48:42,501 - #12 =
+INFO  03:48:42,501 - #44 k2
+INFO  03:48:42,501 - #5 ;
+INFO  03:48:42,501 - #44 predmeti
+INFO  03:48:42,501 - #37 [
+INFO  03:48:42,501 - #43 5
+INFO  03:48:42,501 - #38 ]
+INFO  03:48:42,501 - #12 =
+INFO  03:48:42,501 - #44 k3
+INFO  03:48:42,501 - #5 ;
+INFO  03:48:42,502 - #14 read
+INFO  03:48:42,502 - #6 (
+INFO  03:48:42,502 - #44 t
+INFO  03:48:42,502 - #7 )
+INFO  03:48:42,502 - #5 ;
+INFO  03:48:42,502 - #16 for
+INFO  03:48:42,502 - #6 (
+INFO  03:48:42,502 - #44 i
+INFO  03:48:42,502 - #12 =
+INFO  03:48:42,502 - #43 0
+INFO  03:48:42,502 - #5 ;
+INFO  03:48:42,502 - #44 i
+INFO  03:48:42,502 - #31 <
+INFO  03:48:42,502 - #43 6
+INFO  03:48:42,503 - #5 ;
+INFO  03:48:42,503 - #44 i
+INFO  03:48:42,503 - #35 ++
+INFO  03:48:42,503 - #7 )
+INFO  03:48:42,504 - #3 {
+INFO  03:48:42,505 - #44 predmeti
+INFO  03:48:42,505 - #37 [
+INFO  03:48:42,505 - #44 i
+INFO  03:48:42,505 - #38 ]
+INFO  03:48:42,505 - #47 .
+INFO  03:48:42,505 - #44 postaviTezinu
+INFO  03:48:42,505 - #6 (
+INFO  03:48:42,505 - #44 t
+INFO  03:48:42,505 - #7 )
+INFO  03:48:42,505 - #5 ;
+INFO  03:48:42,505 - #44 interPredmeti
+INFO  03:48:42,505 - #37 [
+INFO  03:48:42,505 - #44 i
+INFO  03:48:42,505 - #38 ]
+INFO  03:48:42,505 - #12 =
+INFO  03:48:42,505 - #44 predmeti
+INFO  03:48:42,505 - #37 [
+INFO  03:48:42,505 - #44 i
+INFO  03:48:42,506 - #38 ]
+INFO  03:48:42,506 - #5 ;
+INFO  03:48:42,506 - #4 }
+INFO  03:48:42,506 - #44 zapreminaS
+INFO  03:48:42,507 - #12 =
+INFO  03:48:42,507 - #43 0
+INFO  03:48:42,507 - #5 ;
+INFO  03:48:42,507 - #44 tezinaS
+INFO  03:48:42,507 - #12 =
+INFO  03:48:42,507 - #43 0
+INFO  03:48:42,507 - #5 ;
+INFO  03:48:42,507 - #16 for
+INFO  03:48:42,507 - #6 (
+INFO  03:48:42,507 - #44 i
+INFO  03:48:42,507 - #12 =
+INFO  03:48:42,507 - #43 1
+INFO  03:48:42,507 - #5 ;
+INFO  03:48:42,507 - #44 i
+INFO  03:48:42,508 - #32 <=
+INFO  03:48:42,508 - #43 6
+INFO  03:48:42,509 - #5 ;
+INFO  03:48:42,510 - #44 i
+INFO  03:48:42,510 - #35 ++
+INFO  03:48:42,510 - #7 )
+INFO  03:48:42,510 - #3 {
+INFO  03:48:42,510 - #45 if
+INFO  03:48:42,510 - #6 (
+INFO  03:48:42,510 - #44 i
+INFO  03:48:42,510 - #26 %
+INFO  03:48:42,510 - #43 2
+INFO  03:48:42,510 - #27 ==
+INFO  03:48:42,511 - #43 0
+INFO  03:48:42,511 - #7 )
+INFO  03:48:42,511 - #18 continue
+INFO  03:48:42,511 - #5 ;
+INFO  03:48:42,511 - #44 zapreminaS
+INFO  03:48:42,511 - #12 =
+INFO  03:48:42,512 - #44 zapreminaS
+INFO  03:48:42,512 - #11 +
+INFO  03:48:42,512 - #44 interPredmeti
+INFO  03:48:42,513 - #37 [
+INFO  03:48:42,513 - #44 i
+INFO  03:48:42,513 - #25 -
+INFO  03:48:42,513 - #43 1
+INFO  03:48:42,514 - #38 ]
+INFO  03:48:42,514 - #47 .
+INFO  03:48:42,514 - #44 zapremina
+INFO  03:48:42,514 - #6 (
+INFO  03:48:42,514 - #7 )
+INFO  03:48:42,514 - #5 ;
+INFO  03:48:42,514 - #44 tezinaS
+INFO  03:48:42,514 - #12 =
+INFO  03:48:42,514 - #44 tezinaS
+INFO  03:48:42,514 - #11 +
+INFO  03:48:42,514 - #44 interPredmeti
+INFO  03:48:42,514 - #37 [
+INFO  03:48:42,514 - #44 i
+INFO  03:48:42,514 - #25 -
+INFO  03:48:42,514 - #43 1
+INFO  03:48:42,514 - #38 ]
+INFO  03:48:42,515 - #47 .
+INFO  03:48:42,515 - #44 Q
+INFO  03:48:42,515 - #6 (
+INFO  03:48:42,515 - #7 )
+INFO  03:48:42,515 - #5 ;
+INFO  03:48:42,515 - #44 ispis
+INFO  03:48:42,515 - #6 (
+INFO  03:48:42,515 - #44 predmeti
+INFO  03:48:42,515 - #37 [
+INFO  03:48:42,515 - #44 i
+INFO  03:48:42,515 - #25 -
+INFO  03:48:42,515 - #43 1
+INFO  03:48:42,515 - #38 ]
+INFO  03:48:42,515 - #7 )
+INFO  03:48:42,515 - #5 ;
+INFO  03:48:42,515 - #4 }
+INFO  03:48:42,515 - #44 zapreminaK
+INFO  03:48:42,515 - #12 =
+INFO  03:48:42,515 - #43 0
+INFO  03:48:42,515 - #5 ;
+INFO  03:48:42,515 - #44 tezinaK
+INFO  03:48:42,515 - #12 =
+INFO  03:48:42,515 - #43 0
+INFO  03:48:42,515 - #5 ;
+INFO  03:48:42,515 - #16 for
+INFO  03:48:42,515 - #6 (
+INFO  03:48:42,515 - #44 i
+INFO  03:48:42,515 - #12 =
+INFO  03:48:42,516 - #43 1
+INFO  03:48:42,516 - #5 ;
+INFO  03:48:42,516 - #44 i
+INFO  03:48:42,516 - #32 <=
+INFO  03:48:42,516 - #43 6
+INFO  03:48:42,516 - #5 ;
+INFO  03:48:42,516 - #44 i
+INFO  03:48:42,516 - #35 ++
+INFO  03:48:42,516 - #7 )
+INFO  03:48:42,516 - #3 {
+INFO  03:48:42,516 - #45 if
+INFO  03:48:42,516 - #6 (
+INFO  03:48:42,516 - #44 i
+INFO  03:48:42,516 - #26 %
+INFO  03:48:42,516 - #43 2
+INFO  03:48:42,516 - #27 ==
+INFO  03:48:42,516 - #43 1
+INFO  03:48:42,516 - #7 )
+INFO  03:48:42,516 - #18 continue
+INFO  03:48:42,516 - #5 ;
+INFO  03:48:42,516 - #44 zapreminaK
+INFO  03:48:42,516 - #12 =
+INFO  03:48:42,517 - #44 zapreminaK
+INFO  03:48:42,517 - #11 +
+INFO  03:48:42,517 - #44 predmeti
+INFO  03:48:42,517 - #37 [
+INFO  03:48:42,517 - #44 i
+INFO  03:48:42,517 - #25 -
+INFO  03:48:42,517 - #43 1
+INFO  03:48:42,517 - #38 ]
+INFO  03:48:42,517 - #47 .
+INFO  03:48:42,517 - #44 zapremina
+INFO  03:48:42,517 - #6 (
+INFO  03:48:42,517 - #7 )
+INFO  03:48:42,517 - #5 ;
+INFO  03:48:42,517 - #44 tezinaK
+INFO  03:48:42,517 - #12 =
+INFO  03:48:42,517 - #44 tezinaK
+INFO  03:48:42,517 - #11 +
+INFO  03:48:42,517 - #44 predmeti
+INFO  03:48:42,517 - #37 [
+INFO  03:48:42,517 - #44 i
+INFO  03:48:42,517 - #25 -
+INFO  03:48:42,517 - #43 1
+INFO  03:48:42,517 - #38 ]
+INFO  03:48:42,517 - #47 .
+INFO  03:48:42,517 - #44 Q
+INFO  03:48:42,517 - #6 (
+INFO  03:48:42,517 - #7 )
+INFO  03:48:42,517 - #5 ;
+INFO  03:48:42,517 - #44 ispis
+INFO  03:48:42,517 - #6 (
+INFO  03:48:42,517 - #44 predmeti
+INFO  03:48:42,517 - #37 [
+INFO  03:48:42,517 - #44 i
+INFO  03:48:42,517 - #25 -
+INFO  03:48:42,517 - #43 1
+INFO  03:48:42,517 - #38 ]
+INFO  03:48:42,517 - #7 )
+INFO  03:48:42,518 - #5 ;
+INFO  03:48:42,518 - #4 }
+INFO  03:48:42,518 - #9 print
+INFO  03:48:42,518 - #6 (
+INFO  03:48:42,518 - #44 zapreminaS
+INFO  03:48:42,518 - #7 )
+INFO  03:48:42,518 - #5 ;
+INFO  03:48:42,518 - #9 print
+INFO  03:48:42,518 - #6 (
+INFO  03:48:42,518 - #44 eol
+INFO  03:48:42,518 - #7 )
+INFO  03:48:42,518 - #5 ;
+INFO  03:48:42,518 - #9 print
+INFO  03:48:42,518 - #6 (
+INFO  03:48:42,518 - #44 zapreminaK
+INFO  03:48:42,518 - #7 )
+INFO  03:48:42,518 - #5 ;
+INFO  03:48:42,518 - #9 print
+INFO  03:48:42,518 - #6 (
+INFO  03:48:42,518 - #44 eol
+INFO  03:48:42,518 - #7 )
+INFO  03:48:42,518 - #5 ;
+INFO  03:48:42,518 - #9 print
+INFO  03:48:42,518 - #6 (
+INFO  03:48:42,518 - #44 tezinaS
+INFO  03:48:42,518 - #7 )
+INFO  03:48:42,518 - #5 ;
+INFO  03:48:42,518 - #9 print
+INFO  03:48:42,518 - #6 (
+INFO  03:48:42,518 - #44 eol
+INFO  03:48:42,518 - #7 )
+INFO  03:48:42,518 - #5 ;
+INFO  03:48:42,518 - #9 print
+INFO  03:48:42,518 - #6 (
+INFO  03:48:42,518 - #44 tezinaK
+INFO  03:48:42,518 - #7 )
+INFO  03:48:42,518 - #5 ;
+INFO  03:48:42,518 - #9 print
+INFO  03:48:42,518 - #6 (
+INFO  03:48:42,518 - #44 eol
+INFO  03:48:42,518 - #7 )
+INFO  03:48:42,518 - #5 ;
+INFO  03:48:42,518 - #4 }
+INFO  03:48:42,518 - #4 }
+INFO  03:48:42,519 - =================================================================================
+INFO  03:48:42,531 - Deklarisana promenljiva cinilac na liniji 5
+INFO  03:48:42,531 - Deklarisana promenljiva delilac na liniji 5
+INFO  03:48:42,532 - Pretraga na liniji 18 (this) , nadjeno 
+INFO  03:48:42,532 - Pretraga na liniji 18 (tezina) , nadjeno 
+INFO  03:48:42,532 - Pretraga na liniji 18 (tezina) , nadjeno 
+INFO  03:48:42,532 - Pretraga na liniji 19 (tezina) , nadjeno 
+INFO  03:48:42,532 - Pretraga na liniji 21 (zapremina) , nadjeno 
+INFO  03:48:42,532 - Pretraga na liniji 21 Pronadjen poziv funkcije zapremina
+INFO  03:48:42,532 - Pretraga na liniji 21 (tezina) , nadjeno 
+INFO  03:48:42,532 - Pretraga na liniji 22 (this) , nadjeno 
+INFO  03:48:42,532 - Pretraga na liniji 22 (vrsta) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 22 (vrsta) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 30 (this) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 30 (tezina) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 30 (tezina) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 30 (vrsta) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 30 (VrstaPredmeta) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 30 (SFERA) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 31 (this) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 31 (r) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 31 (r) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 31 (postaviVrstu) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 31 (VrstaPredmeta) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 31 (SFERA) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 31 Pronadjen poziv funkcije postaviVrstu
+INFO  03:48:42,533 - Pretraga na liniji 35 (z) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 35 (cinilac) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 36 (z) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 36 (r) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 36 (delilac) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 45 (this) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 45 (tezina) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 45 (tezina) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 45 (vrsta) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 45 (VrstaPredmeta) , nadjeno 
+INFO  03:48:42,533 - Pretraga na liniji 45 (KVADAR) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 46 (this) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 46 (a) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 46 (a) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 46 (this) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 46 (b) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 46 (b) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 46 (this) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 46 (c) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 46 (c) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 46 (vrsta) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 46 (VrstaPredmeta) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 46 (KVADAR) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 50 (z) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 50 (a) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 50 (b) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 50 (c) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 51 (z) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 62 (p) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 62 (vrsta) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 62 (VrstaPredmeta) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 62 (SFERA) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 63 (p) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 63 (vrsta) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 63 (VrstaPredmeta) , nadjeno 
+INFO  03:48:42,534 - Pretraga na liniji 63 (KVADAR) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 65 (eol) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 66 (p) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 66 (tezina) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 72 (predmeti) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 73 (interPredmeti) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 74 (s1) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 75 (s2) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 76 (s3) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 78 (k1) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 79 (k2) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 80 (k3) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 82 (s1) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 82 (postaviPoluprecnik) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 82 Pronadjen poziv funkcije postaviPoluprecnik
+INFO  03:48:42,535 - Pretraga na liniji 83 (s2) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 83 (postaviPoluprecnik) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 83 Pronadjen poziv funkcije postaviPoluprecnik
+INFO  03:48:42,535 - Pretraga na liniji 84 (s3) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 84 (postaviPoluprecnik) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 84 Pronadjen poziv funkcije postaviPoluprecnik
+INFO  03:48:42,535 - Pretraga na liniji 86 (k1) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 86 (postaviStranice) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 86 Pronadjen poziv funkcije postaviStranice
+INFO  03:48:42,535 - Pretraga na liniji 87 (k2) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 87 (postaviStranice) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 87 Pronadjen poziv funkcije postaviStranice
+INFO  03:48:42,535 - Pretraga na liniji 88 (k3) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 88 (postaviStranice) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 88 Pronadjen poziv funkcije postaviStranice
+INFO  03:48:42,535 - Pretraga na liniji 90 (predmeti) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 90 (s1) , nadjeno 
+ERROR 03:48:42,535 - Greska na liniji 90 nekompatibilni tipovi u dodeli vrednosti! 
+INFO  03:48:42,535 - Pretraga na liniji 91 (predmeti) , nadjeno 
+INFO  03:48:42,535 - Pretraga na liniji 91 (s2) , nadjeno 
+ERROR 03:48:42,535 - Greska na liniji 91 nekompatibilni tipovi u dodeli vrednosti! 
+INFO  03:48:42,536 - Pretraga na liniji 92 (predmeti) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 92 (s3) , nadjeno 
+ERROR 03:48:42,536 - Greska na liniji 92 nekompatibilni tipovi u dodeli vrednosti! 
+INFO  03:48:42,536 - Pretraga na liniji 93 (predmeti) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 93 (k1) , nadjeno 
+ERROR 03:48:42,536 - Greska na liniji 93 nekompatibilni tipovi u dodeli vrednosti! 
+INFO  03:48:42,536 - Pretraga na liniji 94 (predmeti) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 94 (k2) , nadjeno 
+ERROR 03:48:42,536 - Greska na liniji 94 nekompatibilni tipovi u dodeli vrednosti! 
+INFO  03:48:42,536 - Pretraga na liniji 95 (predmeti) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 95 (k3) , nadjeno 
+ERROR 03:48:42,536 - Greska na liniji 95 nekompatibilni tipovi u dodeli vrednosti! 
+INFO  03:48:42,536 - Pretraga na liniji 97 (t) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 98 (i) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 98 (i) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 98 (i) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 100 (predmeti) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 100 (i) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 100 (postaviTezinu) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 100 (t) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 100 Pronadjen poziv funkcije postaviTezinu
+INFO  03:48:42,536 - Pretraga na liniji 101 (interPredmeti) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 101 (i) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 101 (predmeti) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 101 (i) , nadjeno 
+ERROR 03:48:42,536 - Greska na liniji 101 nekompatibilni tipovi u dodeli vrednosti! 
+INFO  03:48:42,536 - Pretraga na liniji 104 (zapreminaS) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 105 (tezinaS) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 106 (i) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 106 (i) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 106 (i) , nadjeno 
+INFO  03:48:42,536 - Pretraga na liniji 108 (i) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 109 (zapreminaS) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 109 (zapreminaS) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 109 (interPredmeti) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 109 (i) , nadjeno 
+ERROR 03:48:42,537 - Greska na liniji 109  ime %mytemp nije funkcija!
+ERROR 03:48:42,537 - Greska na liniji 109 nekompatibilni tipovi u izrazu za sabiranje.
+ERROR 03:48:42,537 - Greska na liniji 109 nekompatibilni tipovi u dodeli vrednosti! 
+INFO  03:48:42,537 - Pretraga na liniji 110 (tezinaS) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 110 (tezinaS) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 110 (interPredmeti) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 110 (i) , nadjeno 
+ERROR 03:48:42,537 - Greska na liniji 110  ime %mytemp nije funkcija!
+ERROR 03:48:42,537 - Greska na liniji 110 nekompatibilni tipovi u izrazu za sabiranje.
+ERROR 03:48:42,537 - Greska na liniji 110 nekompatibilni tipovi u dodeli vrednosti! 
+INFO  03:48:42,537 - Pretraga na liniji 111 (ispis) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 111 (predmeti) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 111 (i) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 111 Pronadjen poziv funkcije ispis
+INFO  03:48:42,537 - Pretraga na liniji 114 (zapreminaK) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 115 (tezinaK) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 116 (i) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 116 (i) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 116 (i) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 118 (i) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 119 (zapreminaK) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 119 (zapreminaK) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 119 (predmeti) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 119 (i) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 119 (zapremina) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 119 Pronadjen poziv funkcije zapremina
+INFO  03:48:42,537 - Pretraga na liniji 120 (tezinaK) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 120 (tezinaK) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 120 (predmeti) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 120 (i) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 120 (Q) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 120 Pronadjen poziv funkcije Q
+INFO  03:48:42,537 - Pretraga na liniji 121 (ispis) , nadjeno 
+INFO  03:48:42,537 - Pretraga na liniji 121 (predmeti) , nadjeno 
+INFO  03:48:42,538 - Pretraga na liniji 121 (i) , nadjeno 
+INFO  03:48:42,538 - Pretraga na liniji 121 Pronadjen poziv funkcije ispis
+INFO  03:48:42,538 - Pretraga na liniji 124 (zapreminaS) , nadjeno 
+INFO  03:48:42,538 - Pretraga na liniji 124 (eol) , nadjeno 
+INFO  03:48:42,538 - Pretraga na liniji 125 (zapreminaK) , nadjeno 
+INFO  03:48:42,538 - Pretraga na liniji 125 (eol) , nadjeno 
+INFO  03:48:42,538 - Pretraga na liniji 126 (tezinaS) , nadjeno 
+INFO  03:48:42,538 - Pretraga na liniji 126 (eol) , nadjeno 
+INFO  03:48:42,538 - Pretraga na liniji 127 (tezinaK) , nadjeno 
+INFO  03:48:42,538 - Pretraga na liniji 127 (eol) , nadjeno 
+INFO  03:48:42,538 - Print calls = 12
+INFO  03:48:42,538 - =================================================================================

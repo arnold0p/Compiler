@@ -1,0 +1,381 @@
+INFO  16:16:17,773 - Compiling source file: D:\faks\milos\4 god 1 sem\pp1\projekat\projekateclipse\MJCompiler\tekst.mj
+INFO  16:16:17,849 - #2 program
+INFO  16:16:17,850 - #44 P
+INFO  16:16:17,850 - #24 const
+INFO  16:16:17,851 - #44 int
+INFO  16:16:17,851 - #44 size
+INFO  16:16:17,852 - #12 =
+INFO  16:16:17,853 - #43 10
+INFO  16:16:17,853 - #5 ;
+INFO  16:16:17,853 - #21 enum
+INFO  16:16:17,853 - #44 Num
+INFO  16:16:17,853 - #3 {
+INFO  16:16:17,854 - #44 ZERO
+INFO  16:16:17,854 - #8 ,
+INFO  16:16:17,854 - #44 ONE
+INFO  16:16:17,855 - #8 ,
+INFO  16:16:17,855 - #44 TEN
+INFO  16:16:17,855 - #12 =
+INFO  16:16:17,855 - #43 10
+INFO  16:16:17,855 - #4 }
+INFO  16:16:17,855 - #23 interface
+INFO  16:16:17,856 - #44 I
+INFO  16:16:17,858 - #3 {
+INFO  16:16:17,859 - #44 int
+INFO  16:16:17,860 - #44 getp
+INFO  16:16:17,860 - #6 (
+INFO  16:16:17,860 - #44 int
+INFO  16:16:17,860 - #44 i
+INFO  16:16:17,860 - #7 )
+INFO  16:16:17,860 - #5 ;
+INFO  16:16:17,861 - #44 int
+INFO  16:16:17,862 - #44 getn
+INFO  16:16:17,862 - #6 (
+INFO  16:16:17,862 - #44 int
+INFO  16:16:17,862 - #44 i
+INFO  16:16:17,862 - #7 )
+INFO  16:16:17,862 - #5 ;
+INFO  16:16:17,862 - #4 }
+INFO  16:16:17,862 - #22 class
+INFO  16:16:17,863 - #44 Table
+INFO  16:16:17,863 - #20 implements
+INFO  16:16:17,864 - #44 I
+INFO  16:16:17,864 - #3 {
+INFO  16:16:17,865 - #44 int
+INFO  16:16:17,865 - #44 pos
+INFO  16:16:17,866 - #37 [
+INFO  16:16:17,866 - #38 ]
+INFO  16:16:17,866 - #8 ,
+INFO  16:16:17,866 - #44 neg
+INFO  16:16:17,866 - #37 [
+INFO  16:16:17,866 - #38 ]
+INFO  16:16:17,866 - #5 ;
+INFO  16:16:17,866 - #3 {
+INFO  16:16:17,867 - #13 void
+INFO  16:16:17,868 - #44 putp
+INFO  16:16:17,868 - #6 (
+INFO  16:16:17,868 - #44 int
+INFO  16:16:17,868 - #44 a
+INFO  16:16:17,868 - #8 ,
+INFO  16:16:17,868 - #44 int
+INFO  16:16:17,871 - #44 idx
+INFO  16:16:17,871 - #7 )
+INFO  16:16:17,872 - #3 {
+INFO  16:16:17,872 - #44 this
+INFO  16:16:17,873 - #48 .
+INFO  16:16:17,874 - #44 pos
+INFO  16:16:17,874 - #37 [
+INFO  16:16:17,874 - #44 idx
+INFO  16:16:17,874 - #38 ]
+INFO  16:16:17,877 - #12 =
+INFO  16:16:17,877 - #44 a
+INFO  16:16:17,877 - #5 ;
+INFO  16:16:17,877 - #4 }
+INFO  16:16:17,877 - #13 void
+INFO  16:16:17,878 - #44 putn
+INFO  16:16:17,878 - #6 (
+INFO  16:16:17,878 - #44 int
+INFO  16:16:17,878 - #44 a
+INFO  16:16:17,878 - #8 ,
+INFO  16:16:17,878 - #44 int
+INFO  16:16:17,878 - #44 idx
+INFO  16:16:17,878 - #7 )
+INFO  16:16:17,878 - #3 {
+INFO  16:16:17,878 - #44 this
+INFO  16:16:17,879 - #48 .
+INFO  16:16:17,879 - #44 neg
+INFO  16:16:17,879 - #37 [
+INFO  16:16:17,879 - #44 idx
+INFO  16:16:17,879 - #38 ]
+INFO  16:16:17,879 - #12 =
+INFO  16:16:17,879 - #44 a
+INFO  16:16:17,879 - #5 ;
+INFO  16:16:17,879 - #4 }
+INFO  16:16:17,879 - #44 int
+INFO  16:16:17,880 - #44 getp
+INFO  16:16:17,880 - #6 (
+INFO  16:16:17,880 - #44 int
+INFO  16:16:17,880 - #44 idx
+INFO  16:16:17,880 - #7 )
+INFO  16:16:17,880 - #3 {
+INFO  16:16:17,880 - #10 return
+INFO  16:16:17,880 - #44 pos
+INFO  16:16:17,880 - #37 [
+INFO  16:16:17,880 - #44 idx
+INFO  16:16:17,880 - #38 ]
+INFO  16:16:17,880 - #5 ;
+INFO  16:16:17,880 - #4 }
+INFO  16:16:17,881 - #44 int
+INFO  16:16:17,881 - #44 getn
+INFO  16:16:17,881 - #6 (
+INFO  16:16:17,881 - #44 int
+INFO  16:16:17,881 - #44 idx
+INFO  16:16:17,881 - #7 )
+INFO  16:16:17,881 - #3 {
+INFO  16:16:17,881 - #10 return
+INFO  16:16:17,881 - #44 neg
+INFO  16:16:17,881 - #37 [
+INFO  16:16:17,881 - #44 idx
+INFO  16:16:17,881 - #38 ]
+INFO  16:16:17,881 - #5 ;
+INFO  16:16:17,882 - #4 }
+INFO  16:16:17,882 - #4 }
+INFO  16:16:17,882 - #4 }
+INFO  16:16:17,882 - #44 Table
+INFO  16:16:17,883 - #44 val
+INFO  16:16:17,883 - #5 ;
+INFO  16:16:17,883 - #3 {
+INFO  16:16:17,884 - #13 void
+INFO  16:16:17,884 - #44 f
+INFO  16:16:17,884 - #6 (
+INFO  16:16:17,884 - #44 char
+INFO  16:16:17,884 - #44 ch
+INFO  16:16:17,884 - #8 ,
+INFO  16:16:17,884 - #44 int
+INFO  16:16:17,884 - #44 a
+INFO  16:16:17,884 - #8 ,
+INFO  16:16:17,884 - #44 int
+INFO  16:16:17,885 - #44 arg
+INFO  16:16:17,885 - #7 )
+INFO  16:16:17,885 - #44 int
+INFO  16:16:17,885 - #44 x
+INFO  16:16:17,885 - #5 ;
+INFO  16:16:17,885 - #3 {
+INFO  16:16:17,885 - #44 x
+INFO  16:16:17,885 - #12 =
+INFO  16:16:17,885 - #44 arg
+INFO  16:16:17,885 - #5 ;
+INFO  16:16:17,885 - #4 }
+INFO  16:16:17,885 - #13 void
+INFO  16:16:17,885 - #44 main
+INFO  16:16:17,886 - #6 (
+INFO  16:16:17,886 - #7 )
+INFO  16:16:17,886 - #44 int
+INFO  16:16:17,886 - #44 x
+INFO  16:16:17,886 - #8 ,
+INFO  16:16:17,886 - #44 i
+INFO  16:16:17,886 - #5 ;
+INFO  16:16:17,887 - #44 char
+INFO  16:16:17,887 - #44 c
+INFO  16:16:17,887 - #5 ;
+INFO  16:16:17,887 - #3 {
+INFO  16:16:17,887 - #44 val
+INFO  16:16:17,887 - #12 =
+INFO  16:16:17,887 - #19 new
+INFO  16:16:17,887 - #44 Table
+INFO  16:16:17,887 - #5 ;
+INFO  16:16:17,888 - #44 val
+INFO  16:16:17,888 - #48 .
+INFO  16:16:17,888 - #44 pos
+INFO  16:16:17,888 - #12 =
+INFO  16:16:17,888 - #19 new
+INFO  16:16:17,888 - #44 int
+INFO  16:16:17,888 - #37 [
+INFO  16:16:17,888 - #44 size
+INFO  16:16:17,888 - #38 ]
+INFO  16:16:17,888 - #5 ;
+INFO  16:16:17,888 - #44 val
+INFO  16:16:17,888 - #48 .
+INFO  16:16:17,888 - #44 neg
+INFO  16:16:17,889 - #12 =
+INFO  16:16:17,889 - #19 new
+INFO  16:16:17,889 - #44 int
+INFO  16:16:17,889 - #37 [
+INFO  16:16:17,889 - #44 size
+INFO  16:16:17,889 - #38 ]
+INFO  16:16:17,889 - #5 ;
+INFO  16:16:17,889 - #16 for
+INFO  16:16:17,889 - #6 (
+INFO  16:16:17,889 - #44 i
+INFO  16:16:17,889 - #12 =
+INFO  16:16:17,889 - #43 0
+INFO  16:16:17,889 - #5 ;
+INFO  16:16:17,889 - #44 i
+INFO  16:16:17,889 - #31 <
+INFO  16:16:17,889 - #44 size
+INFO  16:16:17,890 - #5 ;
+INFO  16:16:17,893 - #44 i
+INFO  16:16:17,893 - #35 ++
+INFO  16:16:17,893 - #7 )
+INFO  16:16:17,893 - #3 {
+INFO  16:16:17,894 - #44 val
+INFO  16:16:17,894 - #48 .
+INFO  16:16:17,894 - #44 putp
+INFO  16:16:17,894 - #6 (
+INFO  16:16:17,895 - #43 0
+INFO  16:16:17,895 - #8 ,
+INFO  16:16:17,895 - #44 i
+INFO  16:16:17,895 - #7 )
+INFO  16:16:17,896 - #5 ;
+INFO  16:16:17,896 - #44 val
+INFO  16:16:17,896 - #48 .
+INFO  16:16:17,896 - #44 putn
+INFO  16:16:17,896 - #6 (
+INFO  16:16:17,896 - #43 0
+INFO  16:16:17,896 - #8 ,
+INFO  16:16:17,896 - #44 i
+INFO  16:16:17,896 - #7 )
+INFO  16:16:17,896 - #5 ;
+INFO  16:16:17,896 - #4 }
+INFO  16:16:17,896 - #44 f
+INFO  16:16:17,897 - #6 (
+INFO  16:16:17,897 - #44 c
+INFO  16:16:17,897 - #8 ,
+INFO  16:16:17,897 - #44 x
+INFO  16:16:17,897 - #8 ,
+INFO  16:16:17,897 - #44 i
+INFO  16:16:17,897 - #7 )
+INFO  16:16:17,897 - #5 ;
+INFO  16:16:17,897 - #14 read
+INFO  16:16:17,897 - #6 (
+INFO  16:16:17,897 - #44 x
+INFO  16:16:17,897 - #7 )
+INFO  16:16:17,897 - #5 ;
+INFO  16:16:17,897 - #16 for
+INFO  16:16:17,897 - #6 (
+INFO  16:16:17,897 - #5 ;
+INFO  16:16:17,898 - #44 x
+INFO  16:16:17,898 - #29 >
+INFO  16:16:17,898 - #43 0
+INFO  16:16:17,898 - #5 ;
+INFO  16:16:17,898 - #7 )
+INFO  16:16:17,898 - #3 {
+INFO  16:16:17,898 - #46 if
+INFO  16:16:17,898 - #6 (
+INFO  16:16:17,898 - #44 Num
+INFO  16:16:17,898 - #48 .
+INFO  16:16:17,898 - #44 ZERO
+INFO  16:16:17,899 - #32 <=
+INFO  16:16:17,899 - #44 x
+INFO  16:16:17,899 - #33 &&
+INFO  16:16:17,899 - #44 x
+INFO  16:16:17,899 - #31 <
+INFO  16:16:17,899 - #44 size
+INFO  16:16:17,899 - #7 )
+INFO  16:16:17,900 - #3 {
+INFO  16:16:17,900 - #44 val
+INFO  16:16:17,900 - #48 .
+INFO  16:16:17,900 - #44 putp
+INFO  16:16:17,900 - #6 (
+INFO  16:16:17,900 - #44 val
+INFO  16:16:17,900 - #48 .
+INFO  16:16:17,900 - #44 getp
+INFO  16:16:17,900 - #6 (
+INFO  16:16:17,900 - #44 x
+INFO  16:16:17,900 - #7 )
+INFO  16:16:17,901 - #11 +
+INFO  16:16:17,901 - #44 Num
+INFO  16:16:17,902 - #48 .
+INFO  16:16:17,902 - #44 ONE
+INFO  16:16:17,902 - #8 ,
+INFO  16:16:17,902 - #43 0
+INFO  16:16:17,902 - #7 )
+INFO  16:16:17,902 - #5 ;
+INFO  16:16:17,902 - #4 }
+INFO  16:16:17,902 - #47 else
+INFO  16:16:17,903 - #46 if
+INFO  16:16:17,903 - #6 (
+INFO  16:16:17,903 - #25 -
+INFO  16:16:17,903 - #44 size
+INFO  16:16:17,904 - #31 <
+INFO  16:16:17,904 - #44 x
+INFO  16:16:17,904 - #33 &&
+INFO  16:16:17,904 - #44 x
+INFO  16:16:17,904 - #31 <
+INFO  16:16:17,904 - #43 0
+INFO  16:16:17,905 - #7 )
+INFO  16:16:17,905 - #3 {
+INFO  16:16:17,905 - #44 val
+INFO  16:16:17,905 - #48 .
+INFO  16:16:17,905 - #44 putn
+INFO  16:16:17,905 - #6 (
+INFO  16:16:17,905 - #44 val
+INFO  16:16:17,905 - #48 .
+INFO  16:16:17,905 - #44 getn
+INFO  16:16:17,905 - #6 (
+INFO  16:16:17,905 - #25 -
+INFO  16:16:17,905 - #44 x
+INFO  16:16:17,905 - #7 )
+INFO  16:16:17,905 - #11 +
+INFO  16:16:17,905 - #43 1
+INFO  16:16:17,906 - #8 ,
+INFO  16:16:17,906 - #43 0
+INFO  16:16:17,906 - #7 )
+INFO  16:16:17,906 - #5 ;
+INFO  16:16:17,906 - #4 }
+INFO  16:16:17,906 - #14 read
+INFO  16:16:17,909 - #6 (
+INFO  16:16:17,909 - #44 x
+INFO  16:16:17,909 - #7 )
+INFO  16:16:17,909 - #5 ;
+INFO  16:16:17,909 - #4 }
+INFO  16:16:17,909 - #4 }
+INFO  16:16:17,909 - #4 }
+INFO  16:16:17,918 - =================================================================================
+INFO  16:16:17,927 - Pretraga na liniji 11 (this) , nadjeno 
+INFO  16:16:17,927 - Pretraga na liniji 11 (pos) , nadjeno 
+INFO  16:16:17,928 - Pretraga na liniji 11 (idx) , nadjeno 
+INFO  16:16:17,928 - Pretraga na liniji 11 (a) , nadjeno 
+INFO  16:16:17,928 - Pretraga na liniji 12 (this) , nadjeno 
+INFO  16:16:17,928 - Pretraga na liniji 12 (neg) , nadjeno 
+INFO  16:16:17,928 - Pretraga na liniji 12 (idx) , nadjeno 
+INFO  16:16:17,928 - Pretraga na liniji 12 (a) , nadjeno 
+INFO  16:16:17,928 - Pretraga na liniji 13 (pos) , nadjeno 
+INFO  16:16:17,928 - Pretraga na liniji 13 (idx) , nadjeno 
+INFO  16:16:17,928 - Pretraga na liniji 14 (neg) , nadjeno 
+INFO  16:16:17,928 - Pretraga na liniji 14 (idx) , nadjeno 
+INFO  16:16:17,928 - Pretraga na liniji 22 (x) , nadjeno 
+INFO  16:16:17,928 - Pretraga na liniji 22 (arg) , nadjeno 
+INFO  16:16:17,929 - Pretraga na liniji 28 (val) , nadjeno 
+INFO  16:16:17,929 - Pretraga na liniji 29 (val) , nadjeno 
+INFO  16:16:17,929 - Pretraga na liniji 29 (pos) , nadjeno 
+INFO  16:16:17,929 - Pretraga na liniji 29 (size) , nadjeno 
+INFO  16:16:17,929 - Pretraga na liniji 30 (val) , nadjeno 
+INFO  16:16:17,929 - Pretraga na liniji 30 (neg) , nadjeno 
+INFO  16:16:17,929 - Pretraga na liniji 30 (size) , nadjeno 
+INFO  16:16:17,929 - Pretraga na liniji 31 (i) , nadjeno 
+INFO  16:16:17,929 - Pretraga na liniji 31 (i) , nadjeno 
+INFO  16:16:17,929 - Pretraga na liniji 31 (size) , nadjeno 
+INFO  16:16:17,929 - Pretraga na liniji 31 (i) , nadjeno 
+INFO  16:16:17,929 - Pretraga na liniji 33 (val) , nadjeno 
+INFO  16:16:17,930 - Pretraga na liniji 33 (putp) , nadjeno 
+INFO  16:16:17,930 - Pretraga na liniji 33 (i) , nadjeno 
+INFO  16:16:17,930 - Pretraga na liniji 33 Pronadjen poziv funkcije putp
+INFO  16:16:17,930 - Pretraga na liniji 34 (val) , nadjeno 
+INFO  16:16:17,930 - Pretraga na liniji 34 (putn) , nadjeno 
+INFO  16:16:17,930 - Pretraga na liniji 34 (i) , nadjeno 
+INFO  16:16:17,930 - Pretraga na liniji 34 Pronadjen poziv funkcije putn
+INFO  16:16:17,930 - Pretraga na liniji 36 (f) , nadjeno 
+INFO  16:16:17,930 - Pretraga na liniji 36 (c) , nadjeno 
+INFO  16:16:17,930 - Pretraga na liniji 36 (x) , nadjeno 
+INFO  16:16:17,930 - Pretraga na liniji 36 (i) , nadjeno 
+INFO  16:16:17,931 - Pretraga na liniji 36 Pronadjen poziv funkcije f
+INFO  16:16:17,931 - Pretraga na liniji 38 (x) , nadjeno 
+INFO  16:16:17,931 - Pretraga na liniji 39 (x) , nadjeno 
+INFO  16:16:17,931 - Pretraga na liniji 41 (Num) , nadjeno 
+INFO  16:16:17,931 - Pretraga na liniji 41 (ZERO) , nadjeno 
+INFO  16:16:17,931 - Pretraga na liniji 41 (x) , nadjeno 
+INFO  16:16:17,931 - Pretraga na liniji 41 (x) , nadjeno 
+INFO  16:16:17,931 - Pretraga na liniji 41 (size) , nadjeno 
+INFO  16:16:17,931 - Pretraga na liniji 43 (val) , nadjeno 
+INFO  16:16:17,931 - Pretraga na liniji 43 (putp) , nadjeno 
+INFO  16:16:17,931 - Pretraga na liniji 43 (val) , nadjeno 
+INFO  16:16:17,931 - Pretraga na liniji 43 (getp) , nadjeno 
+INFO  16:16:17,933 - Pretraga na liniji 43 (x) , nadjeno 
+INFO  16:16:17,933 - Pretraga na liniji 43 Pronadjen poziv funkcije getp
+INFO  16:16:17,933 - Pretraga na liniji 43 (Num) , nadjeno 
+INFO  16:16:17,933 - Pretraga na liniji 43 (ONE) , nadjeno 
+INFO  16:16:17,933 - Pretraga na liniji 43 Pronadjen poziv funkcije putp
+INFO  16:16:17,933 - Pretraga na liniji 46 (size) , nadjeno 
+INFO  16:16:17,933 - Pretraga na liniji 46 (x) , nadjeno 
+INFO  16:16:17,933 - Pretraga na liniji 46 (x) , nadjeno 
+INFO  16:16:17,933 - Pretraga na liniji 48 (val) , nadjeno 
+INFO  16:16:17,933 - Pretraga na liniji 48 (putn) , nadjeno 
+INFO  16:16:17,933 - Pretraga na liniji 48 (val) , nadjeno 
+INFO  16:16:17,933 - Pretraga na liniji 48 (getn) , nadjeno 
+INFO  16:16:17,934 - Pretraga na liniji 48 (x) , nadjeno 
+INFO  16:16:17,934 - Pretraga na liniji 48 Pronadjen poziv funkcije getn
+INFO  16:16:17,934 - Pretraga na liniji 48 Pronadjen poziv funkcije putn
+INFO  16:16:17,934 - Pretraga na liniji 50 (x) , nadjeno 
+INFO  16:16:17,934 - Generating bytecode file: D:\faks\milos\4 god 1 sem\pp1\projekat\projekateclipse\MJCompiler\program.obj
+INFO  16:16:17,946 - Parsiranje uspesno zavrseno!

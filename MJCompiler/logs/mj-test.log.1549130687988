@@ -1,0 +1,108 @@
+INFO  19:04:29,219 - Compiling source file: D:\faks\milos\4 god 1 sem\pp1\projekat\projekateclipse\MJCompiler\t.mj
+INFO  19:04:29,295 - #2 program
+INFO  19:04:29,295 - #44 test301
+INFO  19:04:29,296 - #44 int
+INFO  19:04:29,297 - #44 char
+INFO  19:04:29,299 - #37 [
+INFO  19:04:29,299 - #38 ]
+INFO  19:04:29,299 - #5 ;
+INFO  19:04:29,299 - #24 const
+INFO  19:04:29,300 - #44 int
+INFO  19:04:29,300 - #44 size
+INFO  19:04:29,300 - #12 =
+INFO  19:04:29,300 - #43 26
+INFO  19:04:29,300 - #5 ;
+INFO  19:04:29,301 - #44 int
+INFO  19:04:29,301 - #44 i
+INFO  19:04:29,301 - #5 ;
+INFO  19:04:29,301 - #3 {
+INFO  19:04:29,301 - #13 void
+INFO  19:04:29,302 - #44 main
+INFO  19:04:29,302 - #6 (
+INFO  19:04:29,302 - #7 )
+INFO  19:04:29,303 - #3 {
+INFO  19:04:29,303 - #44 niz
+INFO  19:04:29,304 - #12 =
+INFO  19:04:29,306 - #19 new
+INFO  19:04:29,306 - #44 char
+INFO  19:04:29,306 - #37 [
+INFO  19:04:29,306 - #44 size
+INFO  19:04:29,306 - #38 ]
+INFO  19:04:29,309 - #5 ;
+INFO  19:04:29,309 - #16 for
+INFO  19:04:29,309 - #6 (
+INFO  19:04:29,309 - #44 i
+INFO  19:04:29,309 - #12 =
+INFO  19:04:29,309 - #43 0
+INFO  19:04:29,309 - #5 ;
+INFO  19:04:29,310 - #44 i
+INFO  19:04:29,310 - #31 <
+INFO  19:04:29,310 - #44 size
+INFO  19:04:29,311 - #5 ;
+INFO  19:04:29,314 - #44 i
+INFO  19:04:29,314 - #35 ++
+INFO  19:04:29,314 - #7 )
+INFO  19:04:29,315 - #3 {
+INFO  19:04:29,315 - #44 niz
+INFO  19:04:29,315 - #37 [
+INFO  19:04:29,315 - #44 i
+INFO  19:04:29,315 - #38 ]
+INFO  19:04:29,315 - #12 =
+INFO  19:04:29,316 - #44 chr
+INFO  19:04:29,316 - #6 (
+INFO  19:04:29,316 - #44 i
+INFO  19:04:29,317 - #11 +
+INFO  19:04:29,317 - #44 ord
+INFO  19:04:29,318 - #6 (
+INFO  19:04:29,318 - #42 a
+INFO  19:04:29,318 - #7 )
+INFO  19:04:29,319 - #7 )
+INFO  19:04:29,320 - #5 ;
+INFO  19:04:29,323 - #5 ;
+ERROR 19:04:29,323 - 
+Sintaksna greska na liniji 17
+INFO  19:04:29,323 - #4 }
+INFO  19:04:29,323 - #16 for
+INFO  19:04:29,323 - #6 (
+ERROR 19:04:29,324 - Uspesan oporavak od greske pri dodeli vrednosti, line : 22
+INFO  19:04:29,325 - #44 i
+INFO  19:04:29,325 - #12 =
+INFO  19:04:29,325 - #43 0
+INFO  19:04:29,325 - #5 ;
+INFO  19:04:29,325 - #44 i
+INFO  19:04:29,325 - #31 <
+INFO  19:04:29,325 - #44 size
+INFO  19:04:29,325 - #5 ;
+INFO  19:04:29,325 - #44 i
+INFO  19:04:29,326 - #35 ++
+INFO  19:04:29,326 - #7 )
+INFO  19:04:29,326 - #3 {
+INFO  19:04:29,326 - #9 print
+INFO  19:04:29,326 - #6 (
+INFO  19:04:29,326 - #44 niz
+INFO  19:04:29,326 - #37 [
+INFO  19:04:29,326 - #44 i
+INFO  19:04:29,326 - #38 ]
+INFO  19:04:29,326 - #7 )
+INFO  19:04:29,327 - #5 ;
+INFO  19:04:29,327 - #4 }
+INFO  19:04:29,327 - #4 }
+INFO  19:04:29,327 - #4 }
+INFO  19:04:29,329 - =================================================================================
+ERROR 19:04:29,344 - Greska na liniji 11 ime niz nije deklarisano! 
+ERROR 19:04:29,345 - Greska na liniji 11  Ime char ne predstavlja tip!
+INFO  19:04:29,345 - Pretraga na liniji 11 (size) , nadjeno 
+ERROR 19:04:29,345 - Greska na liniji 11 nekompatibilni tipovi u dodeli vrednosti! 
+INFO  19:04:29,345 - Pretraga na liniji 16 (i) , nadjeno 
+INFO  19:04:29,345 - Pretraga na liniji 16 (i) , nadjeno 
+INFO  19:04:29,345 - Pretraga na liniji 16 (size) , nadjeno 
+INFO  19:04:29,345 - Pretraga na liniji 16 (i) , nadjeno 
+INFO  19:04:29,345 - Pretraga na liniji 20 (i) , nadjeno 
+INFO  19:04:29,345 - Pretraga na liniji 20 (i) , nadjeno 
+INFO  19:04:29,345 - Pretraga na liniji 20 (size) , nadjeno 
+INFO  19:04:29,345 - Pretraga na liniji 20 (i) , nadjeno 
+ERROR 19:04:29,345 - Greska na liniji 21 ime niz nije deklarisano! 
+INFO  19:04:29,346 - Pretraga na liniji 21 (i) , nadjeno 
+ERROR 19:04:29,346 - Greska nije nizovni tip noObj na liniji 21
+ERROR 19:04:29,346 - Greska na liniji 21 Operand instrukcije PRINT mora biti char ili int ili bool tipa
+ERROR 19:04:29,346 - Parsiranje NIJE uspesno zavrseno!

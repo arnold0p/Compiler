@@ -1,0 +1,107 @@
+INFO  05:00:12,205 - Compiling source file: D:\faks\milos\4 god 1 sem\pp1\projekat\projekateclipse\MJCompiler\testif.mj
+INFO  05:00:12,291 - #2 program
+INFO  05:00:12,291 - #44 P
+INFO  05:00:12,291 - #24 const
+INFO  05:00:12,299 - #44 int
+INFO  05:00:12,299 - #44 konst
+INFO  05:00:12,301 - #12 =
+INFO  05:00:12,301 - #43 20
+INFO  05:00:12,301 - #5 ;
+INFO  05:00:12,301 - #44 int
+INFO  05:00:12,301 - #44 x
+INFO  05:00:12,301 - #5 ;
+INFO  05:00:12,301 - #44 int
+INFO  05:00:12,301 - #44 y
+INFO  05:00:12,301 - #5 ;
+INFO  05:00:12,301 - #24 const
+INFO  05:00:12,301 - #44 char
+INFO  05:00:12,301 - #44 l
+INFO  05:00:12,301 - #12 =
+INFO  05:00:12,301 - #42 3
+INFO  05:00:12,301 - #5 ;
+INFO  05:00:12,301 - #44 bool
+INFO  05:00:12,306 - #44 is
+INFO  05:00:12,306 - #5 ;
+INFO  05:00:12,306 - #21 enum
+INFO  05:00:12,306 - #44 Num
+INFO  05:00:12,306 - #3 {
+INFO  05:00:12,307 - #44 ZERO
+INFO  05:00:12,307 - #8 ,
+INFO  05:00:12,307 - #44 ONE
+INFO  05:00:12,307 - #8 ,
+INFO  05:00:12,308 - #44 TEN
+INFO  05:00:12,308 - #12 =
+INFO  05:00:12,308 - #43 10
+INFO  05:00:12,308 - #4 }
+INFO  05:00:12,308 - #3 {
+INFO  05:00:12,309 - #13 void
+INFO  05:00:12,310 - #44 main
+INFO  05:00:12,310 - #6 (
+INFO  05:00:12,310 - #7 )
+INFO  05:00:12,311 - #44 int
+INFO  05:00:12,312 - #44 ae
+INFO  05:00:12,312 - #5 ;
+INFO  05:00:12,312 - #3 {
+INFO  05:00:12,313 - #44 ae
+INFO  05:00:12,313 - #12 =
+INFO  05:00:12,316 - #43 3
+INFO  05:00:12,316 - #5 ;
+INFO  05:00:12,318 - #44 x
+INFO  05:00:12,318 - #12 =
+INFO  05:00:12,318 - #43 4
+INFO  05:00:12,318 - #5 ;
+INFO  05:00:12,318 - #44 y
+INFO  05:00:12,318 - #12 =
+INFO  05:00:12,318 - #43 5
+INFO  05:00:12,318 - #5 ;
+INFO  05:00:12,319 - #44 is
+INFO  05:00:12,319 - #12 =
+INFO  05:00:12,319 - #41 true
+INFO  05:00:12,319 - #5 ;
+INFO  05:00:12,319 - #9 print
+INFO  05:00:12,319 - #6 (
+INFO  05:00:12,319 - #44 is
+INFO  05:00:12,319 - #7 )
+INFO  05:00:12,320 - #5 ;
+INFO  05:00:12,321 - #45 if
+INFO  05:00:12,321 - #6 (
+INFO  05:00:12,321 - #6 (
+INFO  05:00:12,321 - #44 x
+INFO  05:00:12,321 - #31 <
+ERROR 05:00:12,321 - 
+Sintaksna greska na liniji 33
+INFO  05:00:12,321 - #44 y
+INFO  05:00:12,321 - #7 )
+INFO  05:00:12,321 - #33 &&
+INFO  05:00:12,322 - #44 is
+INFO  05:00:12,322 - #7 )
+INFO  05:00:12,322 - #3 {
+INFO  05:00:12,322 - #9 print
+INFO  05:00:12,322 - #6 (
+ERROR 05:00:12,322 - Uspesan oporavak od greske u logickom iskazu if naredbe, line : 33
+INFO  05:00:12,323 - #43 11
+INFO  05:00:12,323 - #7 )
+INFO  05:00:12,323 - #5 ;
+INFO  05:00:12,323 - #4 }
+INFO  05:00:12,323 - #46 else
+INFO  05:00:12,324 - #3 {
+INFO  05:00:12,324 - #9 print
+INFO  05:00:12,324 - #6 (
+INFO  05:00:12,324 - #43 22
+INFO  05:00:12,325 - #7 )
+INFO  05:00:12,325 - #5 ;
+INFO  05:00:12,325 - #4 }
+INFO  05:00:12,325 - #9 print
+INFO  05:00:12,326 - #6 (
+INFO  05:00:12,326 - #42 k
+INFO  05:00:12,326 - #7 )
+INFO  05:00:12,326 - #5 ;
+INFO  05:00:12,326 - #4 }
+INFO  05:00:12,326 - #4 }
+INFO  05:00:12,328 - =================================================================================
+INFO  05:00:12,350 - Pretraga na liniji 23 (ae) , nadjeno 
+INFO  05:00:12,351 - Pretraga na liniji 25 (x) , nadjeno 
+INFO  05:00:12,351 - Pretraga na liniji 27 (y) , nadjeno 
+INFO  05:00:12,351 - Pretraga na liniji 29 (is) , nadjeno 
+INFO  05:00:12,351 - Pretraga na liniji 31 (is) , nadjeno 
+ERROR 05:00:12,352 - Parsiranje NIJE uspesno zavrseno!

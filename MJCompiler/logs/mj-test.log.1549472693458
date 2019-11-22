@@ -1,0 +1,103 @@
+INFO  18:01:50,419 - Compiling source file: D:\faks\milos\4 god 1 sem\pp1\projekat\projekateclipse\MJCompiler\test\poz.mj
+INFO  18:01:50,530 - #2 program
+INFO  18:01:50,530 - #44 eee
+INFO  18:01:50,530 - #44 int
+INFO  18:01:50,530 - #44 x
+INFO  18:01:50,530 - #5 ;
+INFO  18:01:50,530 - #3 {
+INFO  18:01:50,530 - #44 int
+INFO  18:01:50,530 - #44 multiply
+INFO  18:01:50,530 - #6 (
+INFO  18:01:50,530 - #44 int
+INFO  18:01:50,530 - #44 a
+INFO  18:01:50,530 - #8 ,
+INFO  18:01:50,530 - #44 int
+INFO  18:01:50,530 - #44 b
+INFO  18:01:50,530 - #7 )
+INFO  18:01:50,530 - #3 {
+INFO  18:01:50,530 - #10 return
+INFO  18:01:50,530 - #44 a
+INFO  18:01:50,530 - #39 *
+INFO  18:01:50,545 - #44 b
+INFO  18:01:50,545 - #5 ;
+INFO  18:01:50,545 - #4 }
+INFO  18:01:50,545 - #44 int
+INFO  18:01:50,545 - #44 getTwo
+INFO  18:01:50,545 - #6 (
+INFO  18:01:50,545 - #7 )
+INFO  18:01:50,545 - #3 {
+INFO  18:01:50,545 - #10 return
+INFO  18:01:50,545 - #44 Number
+INFO  18:01:50,545 - #48 .
+INFO  18:01:50,545 - #44 TEN
+INFO  18:01:50,545 - #40 /
+INFO  18:01:50,545 - #44 WeekDay
+INFO  18:01:50,545 - #48 .
+INFO  18:01:50,545 - #44 SAT
+INFO  18:01:50,545 - #5 ;
+INFO  18:01:50,545 - #4 }
+INFO  18:01:50,545 - #13 void
+INFO  18:01:50,545 - #44 main
+INFO  18:01:50,545 - #6 (
+INFO  18:01:50,545 - #7 )
+INFO  18:01:50,545 - #3 {
+INFO  18:01:50,545 - #44 x
+INFO  18:01:50,545 - #12 =
+INFO  18:01:50,545 - #44 multiply
+INFO  18:01:50,545 - #6 (
+INFO  18:01:50,545 - #44 getTwo
+INFO  18:01:50,545 - #6 (
+INFO  18:01:50,545 - #7 )
+INFO  18:01:50,545 - #8 ,
+INFO  18:01:50,545 - #44 multiply
+INFO  18:01:50,561 - #6 (
+INFO  18:01:50,561 - #44 getTwo
+INFO  18:01:50,561 - #6 (
+INFO  18:01:50,561 - #7 )
+INFO  18:01:50,561 - #8 ,
+INFO  18:01:50,561 - #44 multiply
+INFO  18:01:50,561 - #6 (
+INFO  18:01:50,561 - #44 getTwo
+INFO  18:01:50,561 - #6 (
+INFO  18:01:50,561 - #7 )
+INFO  18:01:50,561 - #8 ,
+INFO  18:01:50,561 - #44 getTwo
+INFO  18:01:50,561 - #6 (
+INFO  18:01:50,561 - #7 )
+INFO  18:01:50,561 - #11 +
+INFO  18:01:50,561 - #43 1
+INFO  18:01:50,561 - #7 )
+INFO  18:01:50,561 - #7 )
+INFO  18:01:50,561 - #7 )
+INFO  18:01:50,577 - #5 ;
+INFO  18:01:50,577 - #4 }
+INFO  18:01:50,577 - #4 }
+INFO  18:01:50,577 - =================================================================================
+INFO  18:01:50,608 - Pretraga na liniji 6 (a) , nadjeno 
+INFO  18:01:50,608 - Pretraga na liniji 6 (b) , nadjeno 
+ERROR 18:01:50,608 - Greska na liniji 10 ime Number nije deklarisano! 
+ERROR 18:01:50,608 - Greska na liniji 10 : ime TEN nije deklarisano! 
+ERROR 18:01:50,608 - Greska na liniji 10 ime WeekDay nije deklarisano! 
+ERROR 18:01:50,608 - Greska na liniji 10 : ime SAT nije deklarisano! 
+ERROR 18:01:50,608 - Greska na liniji 22 nekompatibilni tipovi 
+ERROR 18:01:50,608 - Greska na liniji 10 tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije getTwo
+INFO  18:01:50,608 - Pretraga na liniji 15 (x) , nadjeno 
+INFO  18:01:50,608 - Pretraga na liniji 15 (multiply) , nadjeno 
+INFO  18:01:50,608 - Pretraga na liniji 15 (getTwo) , nadjeno 
+INFO  18:01:50,608 - Pretraga na liniji 15 Pronadjen poziv funkcije getTwo
+INFO  18:01:50,608 - Pretraga na liniji 15 (multiply) , nadjeno 
+INFO  18:01:50,608 - Pretraga na liniji 15 (getTwo) , nadjeno 
+INFO  18:01:50,608 - Pretraga na liniji 15 Pronadjen poziv funkcije getTwo
+INFO  18:01:50,608 - Pretraga na liniji 15 (multiply) , nadjeno 
+INFO  18:01:50,608 - Pretraga na liniji 15 (getTwo) , nadjeno 
+INFO  18:01:50,608 - Pretraga na liniji 15 Pronadjen poziv funkcije getTwo
+INFO  18:01:50,608 - Pretraga na liniji 15 (getTwo) , nadjeno 
+INFO  18:01:50,608 - Pretraga na liniji 15 Pronadjen poziv funkcije getTwo
+ERROR 18:01:50,608 - Greska na liniji 15 veci broj parametara od potrebnog za poziv funkcije multiply
+ERROR 18:01:50,608 - Greska na liniji 15 veci broj parametara od potrebnog za poziv funkcije multiply
+INFO  18:01:50,608 - Pretraga na liniji 15 Pronadjen poziv funkcije multiply
+ERROR 18:01:50,608 - Greska na liniji 15 veci broj parametara od potrebnog za poziv funkcije multiply
+ERROR 18:01:50,608 - Greska na liniji 15 veci broj parametara od potrebnog za poziv funkcije multiply
+INFO  18:01:50,608 - Pretraga na liniji 15 Pronadjen poziv funkcije multiply
+INFO  18:01:50,608 - Pretraga na liniji 15 Pronadjen poziv funkcije multiply
+ERROR 18:01:50,608 - Parsiranje NIJE uspesno zavrseno!
